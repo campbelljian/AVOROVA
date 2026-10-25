@@ -1,0 +1,20 @@
+# Only reviewed publication material belongs in this repository.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/README.en.md
+!/docs/
+/docs/*
+!/docs/FAQ.zh-CN.md
+!/docs/FAQ.en.md
+!/assets/
+/assets/*
+!/assets/logo.png
+!/assets/neon-nocturne.webp
+!/assets/lunar-orbit.webp
+!/assets/luminous-flow.webp
+!/assets/brainstorm-zh.png
+!/assets/brainstorm-en.png
+!/assets/quota-zh.png
+!/assets/quota-en.png
