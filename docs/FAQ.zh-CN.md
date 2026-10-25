@@ -11,7 +11,7 @@
 部分代理节点或分流设置可能导致官网连接异常。如果出现连接被关闭、长时间无响应等情况，可以尝试：
 
 1. 在代理软件中，将 `avorova.app` 和 `www.avorova.app` 设置为直连（DIRECT），然后重新打开官网。
-2. 或暂时关闭代理，再访问 [avorova.app](https://avorova.app/) 做对比。
+2. 或暂时关闭代理，再访问 [avorova.app](https://avorova.app/?utm_source=github) 做对比。
 
 如果仍然无法打开，可换一个网络或代理节点重试，并保留浏览器名称、错误提示及直连与代理访问的对比结果，便于后续排查。
 

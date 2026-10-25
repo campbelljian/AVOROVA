@@ -7,7 +7,7 @@
 <p align="center"><strong>Supports Codex theme mode and third-party API relay services through Codex++ mode.</strong></p>
 
 <p align="center">
-  <a href="README.md">简体中文</a> · English · <a href="https://avorova.app/">Website</a> · <a href="docs/FAQ.en.md">FAQ</a>
+  <a href="README.md">简体中文</a> · English · <a href="https://avorova.app/?utm_source=github">Website</a> · <a href="docs/FAQ.en.md">FAQ</a>
 </p>
 
 <p align="center"><strong>Website access:</strong> Some proxy connections may fail to load the website. Try setting <code>avorova.app</code> and <code>www.avorova.app</code> to DIRECT in your proxy app, or temporarily disconnect the proxy and retry. <a href="docs/FAQ.en.md#what-if-the-website-will-not-open">Troubleshooting</a></p>
@@ -94,7 +94,7 @@ Current test installers are unsigned, so Windows may show a prompt during instal
 
 ## Learn more
 
-- [Website](https://avorova.app/)
+- [Website](https://avorova.app/?utm_source=github)
 - [Frequently asked questions](docs/FAQ.en.md)
 - [中文介绍](README.md)
 

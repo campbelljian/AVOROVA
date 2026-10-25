@@ -11,7 +11,7 @@ Not yet. This repository is being prepared for release and currently contains pr
 Some proxy nodes or routing rules may cause connection problems. If the connection closes or the website does not respond, try either of these options:
 
 1. Set `avorova.app` and `www.avorova.app` to DIRECT in your proxy app, then reopen the website.
-2. Or temporarily disconnect the proxy and visit [avorova.app](https://avorova.app/) again to compare.
+2. Or temporarily disconnect the proxy and visit [avorova.app](https://avorova.app/?utm_source=github) again to compare.
 
 If it still will not open, try another network or proxy node. Keep the browser name, error message, and the results with and without the proxy to help with further troubleshooting.
 
