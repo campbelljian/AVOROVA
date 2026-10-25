@@ -13,9 +13,11 @@
 
 > **发布准备中**：当前仅提供产品介绍与界面预览，安装包尚未发布。
 
-![霓影夜轨主题画面：蓝紫霓虹车厢](assets/neon-nocturne.webp)
+![完整 Codex 窗口主题演示：霓影夜轨、Lunar Orbit 与流光幻境依次播放](assets/themes-zh.gif)
 
-*霓影夜轨 · 主题画面示例。此处为静态图片，视频效果以实际主题为准。*
+*主题、侧栏、输入框和右上角的 AVO 控件，一起看。动图循环展示三款主题；[查看霓影夜轨静态大图](assets/neon-window-zh.webp)。*
+
+*本页动图录自官网的界面演示，并非实际桌面录屏；对话内容与额度均为示例数据。*
 
 ## AVOROVA 是什么？
 
@@ -29,9 +31,9 @@ AVOROVA（简称 AVO）是为 Windows 版 Codex 制作的主题与实用功能�
 
 | Lunar Orbit · 月面与星空 | 流光幻境 · 流动的色彩 |
 | :---: | :---: |
-| ![Lunar Orbit 月面主题](assets/lunar-orbit.webp) | ![流光幻境动效主题静态预览](assets/luminous-flow.webp) |
+| ![Lunar Orbit 完整 Codex 窗口示意](assets/lunar-window-zh.webp) | ![流光幻境完整 Codex 窗口示意](assets/flow-window-zh.webp) |
 
-*以上是主题画面的静态预览；动效类主题的实际运动效果不在这些图片中播放。*
+*点击图片可放大查看完整窗口。上方动图展示动态效果，下方图片方便看界面细节。*
 
 ## 脑洞：闪过的想法，先接住
 
@@ -41,9 +43,9 @@ AVOROVA（简称 AVO）是为 Windows 版 Codex 制作的主题与实用功能�
 - 保留原对话和原消息的关联；能够定位时，可返回查看上下文。
 - 需要时从顶栏打开，写完再回到当前工作。
 
-![脑洞界面中文预览](assets/brainstorm-zh.png)
+![脑洞操作演示：框选对话文字、点击存入脑洞、打开笔记面板](assets/brainstorm-zh.gif)
 
-*界面演示使用示例内容。*
+*框选文字 → 存入脑洞 → 继续整理想法。[查看脑洞面板大图](assets/brainstorm-zh.png)。*
 
 ## 额度电池：剩多少，一眼看清
 
@@ -53,7 +55,9 @@ Codex 顶栏里的电池显示剩余额度，悬停即可查看更详细的信�
 - 额度恢复时间与倒计时。
 - 只读显示可用的重置卡数量。
 
-<p align="center"><img src="assets/quota-zh.png" width="540" alt="额度详情中文预览：剩余额度、恢复时间与重置卡数量"></p>
+![额度电池操作演示：悬停顶栏电池，依次查看五小时、本周与重置卡信息](assets/quota-zh.gif)
+
+*悬停电池 → 查看额度和恢复时间 → 移开收起。[查看额度详情大图](assets/quota-zh.png)。*
 
 *百分比、时间和卡片数量均为示例数据。实际显示取决于账号可提供的数据；电池本身不会增加或重置套餐额度。*
 

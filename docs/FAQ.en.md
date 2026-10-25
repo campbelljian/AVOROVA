@@ -4,7 +4,7 @@
 
 ## Can I download and install it now?
 
-Not yet. This repository is being prepared for release and currently contains product information and preview images, with no installer or executable. Verified installation and update instructions will be published alongside an installer.
+Not yet. This repository is being prepared for release and currently contains product information, preview images, and animated demonstrations, with no installer or executable. Verified installation and update instructions will be published alongside an installer.
 
 ## Which product does it work with?
 
@@ -12,7 +12,11 @@ AVOROVA is designed for the Codex desktop app on Windows. Supported Windows and 
 
 ## What kinds of themes are available?
 
-The theme library groups themes into types such as video, image, motion, and glass. Theme pictures in the README are still previews and do not play video loops or live effects.
+The theme library groups themes into types such as video, image, motion, and glass. The animation at the top of the README shows three themes inside complete Codex window demonstrations. Full-size stills let you inspect interface details.
+
+## Can I interact with these animations?
+
+No. They are short loops recorded from the website's interface demonstrations, not desktop recordings or themes running inside GitHub. The Brainstorm and quota battery animations explain the workflows using sample conversations and quota data.
 
 ## How does Brainstorm work?
 

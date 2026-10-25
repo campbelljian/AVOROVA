@@ -13,9 +13,11 @@
 
 > **Preparing for release:** this repository currently contains a product overview and interface previews. No installer is available yet.
 
-![Neon Nocturne theme artwork: a train carriage in blue and violet neon](assets/neon-nocturne.webp)
+![Full Codex window demonstration cycling through Neon Nocturne, Lunar Orbit, and Luminous Flow](assets/themes-en.gif)
 
-*Neon Nocturne · Theme artwork. This is a still image, not the video theme playing in the app.*
+*See the theme, sidebar, composer, and AVO title-bar controls together. The loop shows three themes; [open the Neon Nocturne still](assets/neon-window-en.webp) for a closer look.*
+
+*Animations on this page are recordings of the website's interface demonstrations, not desktop recordings. Conversations and quota values are sample data.*
 
 ## What is AVOROVA?
 
@@ -29,9 +31,9 @@ The theme library includes video, image, motion, and glass themes. Preview a the
 
 | Lunar Orbit · Moon and stars | Luminous Flow · Colors in motion |
 | :---: | :---: |
-| ![Lunar Orbit moon theme](assets/lunar-orbit.webp) | ![Still preview of the Luminous Flow theme](assets/luminous-flow.webp) |
+| ![Lunar Orbit in a complete Codex window demonstration](assets/lunar-window-en.webp) | ![Luminous Flow in a complete Codex window demonstration](assets/flow-window-en.webp) |
 
-*These are still previews of theme artwork. Animated themes do not play inside these images.*
+*Open either image to see the full window. The animation above shows motion; these stills make interface details easier to inspect.*
 
 ## Brainstorm: keep the thought
 
@@ -41,9 +43,9 @@ Select a passage in a Codex conversation and choose “Save to Brainstorm” to 
 - Keep a reference to the original conversation and message, and revisit it when it can be located.
 - Open the panel from the title bar when needed, then return to your work.
 
-![English preview of the Brainstorm panel](assets/brainstorm-en.png)
+![Brainstorm demonstration: select conversation text, save it, and open the notes panel](assets/brainstorm-en.gif)
 
-*Interface preview with sample content. The panel is labeled “Ideas” in this preview.*
+*Select text → save to Brainstorm → develop the idea. [Open the panel close-up](assets/brainstorm-en.png). The panel is labeled “Ideas” in this preview.*
 
 ## Quota battery: see what remains
 
@@ -53,7 +55,9 @@ The title-bar battery shows remaining Codex usage. Hover over it for details.
 - Reset times and countdowns.
 - A read-only reset-card count, when that information is available.
 
-<p align="center"><img src="assets/quota-en.png" width="540" alt="English quota preview showing remaining usage, reset times, and reset-card count"></p>
+![Quota battery demonstration: hover over the title-bar battery to inspect five-hour usage, weekly usage, and reset cards](assets/quota-en.gif)
+
+*Hover over the battery → inspect usage and reset times → move away to close. [Open the quota details close-up](assets/quota-en.png).*
 
 *Percentages, times, and card counts are sample data. Available information depends on the account; the battery does not increase or reset plan limits.*
 

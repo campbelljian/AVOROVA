@@ -4,3 +4,4 @@
 .gitattributes text eol=lf
 *.png binary
 *.webp binary
+*.gif binary
