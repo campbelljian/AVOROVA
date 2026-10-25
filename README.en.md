@@ -2,7 +2,7 @@
   <img src="assets/brand-en.webp" width="1280" alt="AVOROVA — Looks great. Feels effortless. Themes, Brainstorm, and quota within reach.">
 </h1>
 
-<p align="center">Themes and everyday tools for Codex on Windows, with ideas and quota right within reach.</p>
+<p align="center">Themes, live wallpapers, and customization tools for Codex on Windows, with ideas and quota right within reach.</p>
 
 <p align="center"><strong>Supports Codex theme mode and third-party API relay services through Codex++ mode.</strong></p>
 
@@ -24,7 +24,7 @@
 
 ## What is AVOROVA?
 
-AVOROVA, or AVO, brings visual themes and useful companion tools to the Windows Codex desktop app. Choose a quiet lunar scene, flowing colors, or a cinematic video background for the workspace you open every day.
+AVOROVA, or AVO, is a theme manager and desktop customization companion for the Windows Codex app. Use image backgrounds, video wallpapers, animated backgrounds, or transparent glass themes inside the workspace you open every day.
 
 Use **Codex theme mode**, or combine themes with a third-party API relay service through **Codex++ mode**. Codex++ mode requires a separate Codex++ installation with your relay service configured. Codex theme mode does not require Codex++.
 
@@ -34,7 +34,7 @@ It also puts **Brainstorm** and a **quota battery** in the Codex title bar, so y
 
 ![A workspace that feels like yours — Video, image, motion, and glass themes](assets/section-themes-en.webp)
 
-The theme library includes video, image, motion, and glass themes. Preview a theme before choosing a look.
+The theme library includes video, image, motion, and glass themes, bringing wallpapers and backgrounds into the Codex sidebar, composer, and workspace. Watch a live preview, then download a theme package or send it to AVO to apply from the website.
 
 | Lunar Orbit · Moon and stars | Luminous Flow · Colors in motion |
 | :---: | :---: |

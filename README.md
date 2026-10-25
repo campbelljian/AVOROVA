@@ -2,7 +2,7 @@
   <img src="assets/brand-zh.webp" width="1280" alt="AVOROVA — 超好看，超方便。主题、脑洞与额度，随手可用。">
 </h1>
 
-<p align="center">给 Windows 版 Codex 换上喜欢的主题，把灵感和额度放在顺手的位置。</p>
+<p align="center">为 Windows 版 Codex 提供主题美化、动态壁纸和实用工具，把灵感和额度放在顺手的位置。</p>
 
 <p align="center"><strong>支持 Codex 主题模式与 Codex++ 模式，中转站用户也能用。</strong></p>
 
@@ -24,7 +24,7 @@
 
 ## AVOROVA 是什么？
 
-AVOROVA（简称 AVO）是为 Windows 版 Codex 制作的主题与实用功能工具。喜欢安静的月面、流动的色彩，或有故事感的视频场景，都可以给每天打开的工作窗口换一种感觉。
+AVOROVA（简称 AVO）是一款 Windows 版 Codex 的主题管理与界面美化工具。用图片背景、视频壁纸、动态背景或玻璃透明主题，给每天打开的工作窗口换一种感觉。
 
 你可以使用 **Codex 主题模式**，也可以通过 **Codex++ 模式**搭配中转服务使用主题。Codex++ 模式需要另行安装 Codex++，并在其中配置好自己的中转服务；普通主题模式无需安装 Codex++。
 
@@ -34,7 +34,7 @@ AVOROVA（简称 AVO）是为 Windows 版 Codex 制作的主题与实用功能�
 
 ![换个喜欢的工作画面 — 视频、图片、动效与玻璃主题](assets/section-themes-zh.webp)
 
-主题库提供视频、图片、动效与玻璃类主题。先看预览，再选择适合自己的风格。
+主题库提供视频、图片、动效与玻璃类主题，让壁纸和背景融入 Codex 的侧栏、输入框与工作界面。先看动态预览，再下载主题包或通过网页交给 AVO 应用。
 
 | Lunar Orbit · 月面与星空 | 流光幻境 · 流动的色彩 |
 | :---: | :---: |
