@@ -73,6 +73,12 @@ The title-bar battery shows remaining Codex usage. Hover over it for details.
 
 Installation, update, and compatibility instructions will accompany a verified installer. This repository does not contain the AVO application source code or Codex source code.
 
+### Installation and security notices
+
+Current test installers are not Windows code-signed, so installation may show an unknown-publisher or reputation warning. Such a warning is not itself a virus detection. AVO’s theming functionality does not rewrite Codex’s original installation files.
+
+If security software explicitly reports a virus or Trojan, pause installation and keep the alert details for investigation. Do not dismiss the detection or disable protection. [Read the explanation](docs/FAQ.en.md#what-if-i-see-a-security-warning-during-installation).
+
 ## Learn more
 
 - [Website](https://avorova.app/)
