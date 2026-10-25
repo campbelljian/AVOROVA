@@ -18,6 +18,14 @@ AVO’s current theming functionality does not rewrite Codex’s original instal
 
 AVOROVA is designed for the Codex desktop app on Windows. Supported Windows and Codex versions will be listed in the release notes. Compatibility with every version is not promised.
 
+## Can I use a third-party API relay service?
+
+Yes. AVO offers Codex theme mode and Codex++ mode. Users who connect to a third-party API relay service through Codex++ can also use AVO themes.
+
+Install Codex++ separately and configure your service endpoint, API key, and available models there. Then select Codex++ mode in AVO. Service and model availability depend on Codex++ and your relay provider; AVO does not supply a relay service or API credits. Codex theme mode does not require Codex++.
+
+The quota battery shows Codex plan quota. Third-party API relay balances are not displayed yet.
+
 ## What kinds of themes are available?
 
 The theme library groups themes into types such as video, image, motion, and glass. The animation at the top of the README shows three themes inside complete Codex window demonstrations. Full-size stills let you inspect interface details.
@@ -32,7 +40,7 @@ Select text in a Codex conversation and choose “Save to Brainstorm.” Continu
 
 ## Does the quota battery add usage or spend reset cards?
 
-No. It displays the remaining usage, reset information, and reset-card count available from the account. It is a read-only display and does not increase or reset limits.
+No. It displays the remaining Codex plan quota, reset information, and reset-card count available from the account. It is a read-only display and does not increase or reset limits. Third-party API relay balances are not displayed yet.
 
 ## Why do the previews show 74%, 63%, and ×2?
 

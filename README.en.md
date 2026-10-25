@@ -4,6 +4,8 @@
 
 <p align="center">Themes and everyday tools for Codex on Windows, with ideas and quota right within reach.</p>
 
+<p align="center"><strong>Supports Codex theme mode and third-party API relay services through Codex++ mode.</strong></p>
+
 <p align="center">
   <a href="README.md">简体中文</a> · English · <a href="https://avorova.app/">Website</a> · <a href="docs/FAQ.en.md">FAQ</a>
 </p>
@@ -24,7 +26,9 @@
 
 AVOROVA, or AVO, brings visual themes and useful companion tools to the Windows Codex desktop app. Choose a quiet lunar scene, flowing colors, or a cinematic video background for the workspace you open every day.
 
-It also puts **Brainstorm** and a **quota battery** in the Codex title bar, so you can keep a passing idea and check your remaining plan usage without leaving your work.
+Use **Codex theme mode**, or combine themes with a third-party API relay service through **Codex++ mode**. Codex++ mode requires a separate Codex++ installation with your relay service configured. Codex theme mode does not require Codex++.
+
+It also puts **Brainstorm** and a **quota battery** in the Codex title bar, so you can keep a passing idea and check your remaining Codex plan usage without leaving your work. Third-party API relay balances are not displayed yet.
 
 ## Themes
 
@@ -56,7 +60,7 @@ Select a passage in a Codex conversation and choose “Save to Brainstorm” to 
 
 ![See what remains, at a glance. — Remaining usage and reset times](assets/section-quota-en.webp)
 
-The title-bar battery shows remaining Codex usage. Hover over it for details.
+The title-bar battery shows remaining Codex plan quota. Hover over it for details. **Third-party API relay balances are not displayed yet.**
 
 - Remaining usage for periods such as the five-hour and weekly windows.
 - Reset times and countdowns.
@@ -73,6 +77,8 @@ The title-bar battery shows remaining Codex usage. Hover over it for details.
 | Item | Current status |
 | --- | --- |
 | Platform | Codex desktop app on Windows |
+| Modes | Codex theme mode; Codex++ mode for third-party API relay services (install and configure Codex++ separately) |
+| Quota display | Codex plan quota; third-party API relay balances are not displayed yet |
 | Installer | In preparation; no download is available in this repository |
 | Compatibility | Supported Windows and Codex versions will be listed with the release |
 | Theme community | Not open yet |
