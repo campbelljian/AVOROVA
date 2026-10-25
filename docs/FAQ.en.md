@@ -6,6 +6,15 @@
 
 Not yet. This repository is being prepared for release and currently contains product information, preview images, and animated demonstrations, with no installer or executable. Verified installation and update instructions will be published alongside an installer.
 
+## What if the website will not open?
+
+Some proxy nodes or routing rules may cause connection problems. If the connection closes or the website does not respond, try either of these options:
+
+1. Set `avorova.app` and `www.avorova.app` to DIRECT in your proxy app, then reopen the website.
+2. Or temporarily disconnect the proxy and visit [avorova.app](https://avorova.app/) again to compare.
+
+If it still will not open, try another network or proxy node. Keep the browser name, error message, and the results with and without the proxy to help with further troubleshooting.
+
 ## What if I see a security warning during installation?
 
 Current test installers are not Windows code-signed, so Windows may show an unknown-publisher or reputation warning. Microsoft explains that signing status, publisher reputation, and file reputation affect SmartScreen decisions. Even new signed apps can trigger warnings. [Microsoft’s explanation of SmartScreen reputation](https://learn.microsoft.com/en-us/windows/apps/package-and-deploy/smartscreen-reputation).

@@ -10,6 +10,8 @@
   简体中文 · <a href="README.en.md">English</a> · <a href="https://avorova.app/">官网</a> · <a href="docs/FAQ.zh-CN.md">常见问题</a>
 </p>
 
+<p align="center"><strong>官网访问提示：</strong>部分代理环境可能导致官网无法打开。可尝试将 <code>avorova.app</code> 和 <code>www.avorova.app</code> 设为直连（DIRECT），或暂时关闭代理后重试。<a href="docs/FAQ.zh-CN.md#官网打不开怎么办">查看排查方法</a></p>
+
 <p align="center">
   <a href="#主题">主题</a> · <a href="#脑洞">脑洞</a> · <a href="#额度电池">额度电池</a> · <a href="#适用范围与下载状态">下载状态</a>
 </p>

@@ -10,6 +10,8 @@
   <a href="README.md">简体中文</a> · English · <a href="https://avorova.app/">Website</a> · <a href="docs/FAQ.en.md">FAQ</a>
 </p>
 
+<p align="center"><strong>Website access:</strong> Some proxy connections may fail to load the website. Try setting <code>avorova.app</code> and <code>www.avorova.app</code> to DIRECT in your proxy app, or temporarily disconnect the proxy and retry. <a href="docs/FAQ.en.md#what-if-the-website-will-not-open">Troubleshooting</a></p>
+
 <p align="center">
   <a href="#themes">Themes</a> · <a href="#brainstorm">Brainstorm</a> · <a href="#quota-battery">Quota battery</a> · <a href="#availability">Availability</a>
 </p>
