@@ -1,14 +1,15 @@
-<p align="center">
-  <img src="assets/logo.png" width="80" height="80" alt="AVOROVA">
-</p>
+<h1 align="center">
+  <img src="assets/brand-en.webp" width="1280" alt="AVOROVA — Looks great. Feels effortless. Themes, Brainstorm, and quota within reach.">
+</h1>
 
-<h1 align="center">AVOROVA</h1>
-
-<p align="center"><strong>Looks great. Feels effortless.</strong></p>
 <p align="center">Themes and everyday tools for Codex on Windows, with ideas and quota right within reach.</p>
 
 <p align="center">
   <a href="README.md">简体中文</a> · English · <a href="https://avorova.app/">Website</a> · <a href="docs/FAQ.en.md">FAQ</a>
+</p>
+
+<p align="center">
+  <a href="#themes">Themes</a> · <a href="#brainstorm">Brainstorm</a> · <a href="#quota-battery">Quota battery</a> · <a href="#availability">Availability</a>
 </p>
 
 > **Preparing for release:** this repository currently contains a product overview and interface previews. No installer is available yet.
@@ -25,7 +26,9 @@ AVOROVA, or AVO, brings visual themes and useful companion tools to the Windows 
 
 It also puts **Brainstorm** and a **quota battery** in the Codex title bar, so you can keep a passing idea and check your remaining plan usage without leaving your work.
 
-## A workspace that feels like yours
+## Themes
+
+![A workspace that feels like yours — Video, image, motion, and glass themes](assets/section-themes-en.webp)
 
 The theme library includes video, image, motion, and glass themes. Preview a theme before choosing a look.
 
@@ -35,7 +38,9 @@ The theme library includes video, image, motion, and glass themes. Preview a the
 
 *Open either image to see the full window. The animation above shows motion; these stills make interface details easier to inspect.*
 
-## Brainstorm: keep the thought
+## Brainstorm
+
+![Keep the thought. Build on it. — Select, save, and keep writing](assets/section-brainstorm-en.webp)
 
 Select a passage in a Codex conversation and choose “Save to Brainstorm” to keep developing the idea.
 
@@ -47,7 +52,9 @@ Select a passage in a Codex conversation and choose “Save to Brainstorm” to 
 
 *Select text → save to Brainstorm → develop the idea. [Open the panel close-up](assets/brainstorm-en.png). The panel is labeled “Ideas” in this preview.*
 
-## Quota battery: see what remains
+## Quota battery
+
+![See what remains, at a glance. — Remaining usage and reset times](assets/section-quota-en.webp)
 
 The title-bar battery shows remaining Codex usage. Hover over it for details.
 

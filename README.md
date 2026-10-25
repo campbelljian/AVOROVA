@@ -1,14 +1,15 @@
-<p align="center">
-  <img src="assets/logo.png" width="80" height="80" alt="AVOROVA">
-</p>
+<h1 align="center">
+  <img src="assets/brand-zh.webp" width="1280" alt="AVOROVA — 超好看，超方便。主题、脑洞与额度，随手可用。">
+</h1>
 
-<h1 align="center">AVOROVA</h1>
-
-<p align="center"><strong>超好看，超方便。</strong></p>
 <p align="center">给 Windows 版 Codex 换上喜欢的主题，把灵感和额度放在顺手的位置。</p>
 
 <p align="center">
   简体中文 · <a href="README.en.md">English</a> · <a href="https://avorova.app/">官网</a> · <a href="docs/FAQ.zh-CN.md">常见问题</a>
+</p>
+
+<p align="center">
+  <a href="#主题">主题</a> · <a href="#脑洞">脑洞</a> · <a href="#额度电池">额度电池</a> · <a href="#适用范围与下载状态">下载状态</a>
 </p>
 
 > **发布准备中**：当前仅提供产品介绍与界面预览，安装包尚未发布。
@@ -25,7 +26,9 @@ AVOROVA（简称 AVO）是为 Windows 版 Codex 制作的主题与实用功能�
 
 除了外观，AVO 还把**脑洞**和**额度电池**放进 Codex 顶栏：随手留下想法，也能随时看看套餐还剩多少额度。
 
-## 换个喜欢的工作画面
+## 主题
+
+![换个喜欢的工作画面 — 视频、图片、动效与玻璃主题](assets/section-themes-zh.webp)
 
 主题库提供视频、图片、动效与玻璃类主题。先看预览，再选择适合自己的风格。
 
@@ -35,7 +38,9 @@ AVOROVA（简称 AVO）是为 Windows 版 Codex 制作的主题与实用功能�
 
 *点击图片可放大查看完整窗口。上方动图展示动态效果，下方图片方便看界面细节。*
 
-## 脑洞：闪过的想法，先接住
+## 脑洞
+
+![闪过的想法，先接住 — 框选文字、存入脑洞、继续整理](assets/section-brainstorm-zh.webp)
 
 在 Codex 对话里选中一段文字，点“存入脑洞”，就能接着整理自己的想法。
 
@@ -47,7 +52,9 @@ AVOROVA（简称 AVO）是为 Windows 版 Codex 制作的主题与实用功能�
 
 *框选文字 → 存入脑洞 → 继续整理想法。[查看脑洞面板大图](assets/brainstorm-zh.png)。*
 
-## 额度电池：剩多少，一眼看清
+## 额度电池
+
+![剩多少，一眼看清 — 剩余额度与恢复时间](assets/section-quota-zh.webp)
 
 Codex 顶栏里的电池显示剩余额度，悬停即可查看更详细的信息。
 
