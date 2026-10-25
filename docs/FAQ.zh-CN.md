@@ -16,7 +16,9 @@ AVO 当前换肤功能不改写 Codex 原始安装文件；主题效果在运行
 
 ## 它适用于什么产品？
 
-AVOROVA 面向 Windows 桌面版 Codex。具体支持哪些 Windows 和 Codex 版本，会在正式发布说明中列出；当前不承诺支持所有版本。
+AVOROVA 面向 Windows 上的 ChatGPT 桌面应用 / Codex，提供主题、皮肤与换肤美化功能。OpenAI 当前将桌面应用称为 ChatGPT，应用内仍提供 Codex；可以查看[官方桌面应用说明](https://learn.chatgpt.com/docs/app)和 [Windows 版本说明](https://learn.chatgpt.com/docs/windows/windows-app)。
+
+这里的主题与操作演示围绕桌面应用中的 Codex 界面展开。AVO 不属于 chatgpt.com 网页换肤扩展。具体支持哪些 Windows 和桌面应用版本，会在正式发布说明中列出；当前不承诺支持所有版本。
 
 ## 中转站用户可以使用吗？
 

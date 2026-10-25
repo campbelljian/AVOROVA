@@ -16,7 +16,9 @@ AVO’s current theming functionality does not rewrite Codex’s original instal
 
 ## Which product does it work with?
 
-AVOROVA is designed for the Codex desktop app on Windows. Supported Windows and Codex versions will be listed in the release notes. Compatibility with every version is not promised.
+AVOROVA provides themes, skins, and desktop customization for the ChatGPT desktop app / Codex on Windows. OpenAI now calls the desktop application ChatGPT, with Codex still available inside it. See the [official desktop app overview](https://learn.chatgpt.com/docs/app) and [Windows documentation](https://learn.chatgpt.com/docs/windows/windows-app).
+
+The themes and demonstrations here focus on the desktop app's Codex interface. AVO is not a browser skin extension for chatgpt.com. Supported Windows and desktop app versions will be listed in the release notes. Compatibility with every version is not promised.
 
 ## Can I use a third-party API relay service?
 

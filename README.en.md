@@ -2,7 +2,7 @@
   <img src="assets/brand-en.webp" width="1280" alt="AVOROVA — Looks great. Feels effortless. Themes, Brainstorm, and quota within reach.">
 </h1>
 
-<p align="center">Themes, live wallpapers, and customization tools for Codex on Windows, with ideas and quota right within reach.</p>
+<p align="center">Themes, skins, live wallpapers, and customization tools for the ChatGPT desktop app / Codex on Windows, with ideas and quota right within reach.</p>
 
 <p align="center"><strong>Supports Codex theme mode and third-party API relay services through Codex++ mode.</strong></p>
 
@@ -24,7 +24,9 @@
 
 ## What is AVOROVA?
 
-AVOROVA, or AVO, is a theme manager and desktop customization companion for the Windows Codex app. Use image backgrounds, video wallpapers, animated backgrounds, or transparent glass themes inside the workspace you open every day.
+AVOROVA, or AVO, is a theme and skin manager for the ChatGPT desktop app / Codex on Windows. Use image backgrounds, video wallpapers, animated backgrounds, or transparent glass themes inside the workspace you open every day.
+
+OpenAI now calls the desktop application **ChatGPT**, with Codex still available inside it. The themes and demonstrations here focus on the Codex interface; supported app versions will be listed in the release notes. [Learn about naming and compatibility](docs/FAQ.en.md#which-product-does-it-work-with).
 
 Use **Codex theme mode**, or combine themes with a third-party API relay service through **Codex++ mode**. Codex++ mode requires a separate Codex++ installation with your relay service configured. Codex theme mode does not require Codex++.
 
@@ -76,11 +78,11 @@ The title-bar battery shows remaining Codex plan quota. Hover over it for detail
 
 | Item | Current status |
 | --- | --- |
-| Platform | Codex desktop app on Windows |
+| Platform | ChatGPT desktop app / Codex on Windows |
 | Modes | Codex theme mode; Codex++ mode for third-party API relay services (install and configure Codex++ separately) |
 | Quota display | Codex plan quota; third-party API relay balances are not displayed yet |
 | Installer | In preparation; no download is available in this repository |
-| Compatibility | Supported Windows and Codex versions will be listed with the release |
+| Compatibility | Supported Windows and ChatGPT desktop app / Codex versions will be listed with the release |
 | Theme community | Not open yet |
 | Repository purpose | Product information, documentation, and future release materials |
 
@@ -94,4 +96,4 @@ Current test installers are unsigned, so Windows may show a prompt during instal
 - [Frequently asked questions](docs/FAQ.en.md)
 - [中文介绍](README.md)
 
-AVOROVA is an independent project, not affiliated with or endorsed by OpenAI. The Codex name identifies the product it works with.
+AVOROVA is an independent project, not affiliated with or endorsed by OpenAI. The ChatGPT and Codex names identify the products it works with.
