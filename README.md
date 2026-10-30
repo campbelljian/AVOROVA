@@ -10,6 +10,10 @@
   简体中文 · <a href="README.en.md">English</a> · <a href="https://avorova.app/?utm_source=github">官网</a> · <a href="docs/FAQ.zh-CN.md">常见问题</a> · <a href="mailto:8849412@qq.com">联系作者</a>
 </p>
 
+<p align="center">
+  <a href="https://avorova.app/?utm_source=github"><img src="assets/website-entry-zh.svg" width="840" alt="访问 AVOROVA 官网 · avorova.app"></a>
+</p>
+
 <p align="center"><strong>官网访问提示：</strong>部分代理环境可能导致官网无法打开。可尝试将 <code>avorova.app</code> 和 <code>www.avorova.app</code> 设为直连（DIRECT），或暂时关闭代理后重试。<a href="docs/FAQ.zh-CN.md#官网打不开怎么办">查看排查方法</a></p>
 
 <p align="center">
@@ -98,7 +102,7 @@ Codex 顶栏里的电池显示 Codex 套餐的剩余额度，悬停即可查看�
 
 **未列出的 Codex 版本，不代表不兼容。** Codex 在开发期间更新频繁，AVOROVA 已持续进行了多轮兼容适配。现有记录覆盖至少 **17 个 Windows 商店包版本**的真实运行测试；这是已验证记录，并非仅支持这些版本的名单，其他版本也可能正常使用。
 
-当前实机测试基准为 **AVOROVA 4.0.0.10 ＋ Codex 应用版本 26.1027.30824**，对应 Windows 商店包 **26.1027.3384.0**。两个 Codex 编号属于同一安装包。
+最近验证的 **Codex 应用版本为 26.1027.30824**，对应 Windows 商店包 **26.1027.3384.0**。这两个编号属于同一个 Codex 安装包。
 
 历史测试范围各不相同，也不表示当前 AVOROVA 已对全部旧版重新测试。[查看完整版本记录与已知边界](docs/COMPATIBILITY.zh-CN.md)。
 
@@ -110,7 +114,7 @@ Codex 顶栏里的电池显示 Codex 套餐的剩余额度，悬停即可查看�
 | 使用方式 | Codex 主题模式；Codex++ 模式（需另行安装并配置 Codex++，支持中转服务） |
 | 额度显示 | Codex 套餐额度；暂不显示中转站余额 |
 | 安装包 | 准备中，本仓库暂未提供下载 |
-| 兼容记录 | [当前基准与历史验证记录](docs/COMPATIBILITY.zh-CN.md)；不是限制使用的版本名单 |
+| 兼容记录 | [已验证版本与兼容说明](docs/COMPATIBILITY.zh-CN.md)；不是限制使用的版本名单 |
 | 主题社区 | 暂未开放 |
 | 仓库用途 | 产品介绍、使用说明，以及后续的版本发布资料 |
 
@@ -126,5 +130,11 @@ Codex 顶栏里的电池显示 Codex 套餐的剩余额度，悬停即可查看�
 - [联系作者：8849412@qq.com](mailto:8849412@qq.com)
 
 遇到问题或有建议，欢迎联系作者。反馈时附上 AVOROVA 与 Codex 版本、复现步骤和必要的截图即可，请勿发送密码或 API 密钥。
+
+---
+
+**运行方式说明**
+
+AVOROVA 的主题美化功能不改写 Codex 原始安装文件，主题效果在运行时加载。
 
 AVOROVA 是独立项目，与 OpenAI 没有隶属关系，也未获得其官方背书。ChatGPT 与 Codex 名称用于说明适用的产品。

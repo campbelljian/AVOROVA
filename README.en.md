@@ -10,6 +10,10 @@
   <a href="README.md">简体中文</a> · English · <a href="https://avorova.app/?utm_source=github">Website</a> · <a href="docs/FAQ.en.md">FAQ</a> · <a href="mailto:8849412@qq.com">Contact</a>
 </p>
 
+<p align="center">
+  <a href="https://avorova.app/?utm_source=github"><img src="assets/website-entry-en.svg" width="840" alt="Visit the AVOROVA website · avorova.app"></a>
+</p>
+
 <p align="center"><strong>Website access:</strong> Some proxy connections may fail to load the website. Try setting <code>avorova.app</code> and <code>www.avorova.app</code> to DIRECT in your proxy app, or temporarily disconnect the proxy and retry. <a href="docs/FAQ.en.md#what-if-the-website-will-not-open">Troubleshooting</a></p>
 
 <p align="center">
@@ -98,7 +102,7 @@ The title-bar battery shows remaining Codex plan quota. Hover over it for detail
 
 **An unlisted Codex version is not necessarily incompatible.** Codex has updated frequently during development, and AVOROVA has undergone multiple rounds of compatibility work. Existing records cover runtime tests on at least **17 Windows Store package versions**. This is a verification history, not an allowlist; other versions may work too.
 
-The current hands-on test baseline is **AVOROVA 4.0.0.10 with Codex application version 26.1027.30824**, corresponding to Windows Store package **26.1027.3384.0**. The two Codex identifiers refer to the same installation.
+The most recently verified **Codex application version is 26.1027.30824**, corresponding to Windows Store package **26.1027.3384.0**. Both numbers identify the same Codex installation.
 
 Historical tests differ in scope, and the current AVOROVA build has not been retested against every older package. [See the full version history and known boundaries](docs/COMPATIBILITY.en.md).
 
@@ -110,7 +114,7 @@ Historical tests differ in scope, and the current AVOROVA build has not been ret
 | Modes | Codex theme mode; Codex++ mode for third-party API relay services (install and configure Codex++ separately) |
 | Quota display | Codex plan quota; third-party API relay balances are not displayed yet |
 | Installer | In preparation; no download is available in this repository |
-| Compatibility record | [Current baseline and historical tests](docs/COMPATIBILITY.en.md); not a version allowlist |
+| Compatibility record | [Verified versions and compatibility notes](docs/COMPATIBILITY.en.md); not a version allowlist |
 | Theme community | Not open yet |
 | Repository purpose | Product information, documentation, and future release materials |
 
@@ -126,5 +130,11 @@ Current test installers are unsigned, so Windows may show a prompt during instal
 - [Contact the author: 8849412@qq.com](mailto:8849412@qq.com)
 
 Questions and suggestions are welcome. For a bug report, include your AVOROVA and Codex versions, steps to reproduce, and relevant screenshots. Do not send passwords or API keys.
+
+---
+
+**How themes work**
+
+AVOROVA’s theme customization does not rewrite Codex’s original installation files; theme effects load at runtime.
 
 AVOROVA is an independent project, not affiliated with or endorsed by OpenAI. The ChatGPT and Codex names identify the products it works with.
