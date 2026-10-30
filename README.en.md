@@ -7,26 +7,20 @@
 <p align="center"><strong>Supports Codex theme mode and third-party API relay services through Codex++ mode.</strong></p>
 
 <p align="center">
-  <a href="README.md">简体中文</a> · English · <a href="https://avorova.app/?utm_source=github">Website</a> · <a href="docs/FAQ.en.md">FAQ</a>
+  <a href="README.md">简体中文</a> · English · <a href="https://avorova.app/?utm_source=github">Website</a> · <a href="docs/FAQ.en.md">FAQ</a> · <a href="mailto:8849412@qq.com">Contact</a>
 </p>
 
 <p align="center"><strong>Website access:</strong> Some proxy connections may fail to load the website. Try setting <code>avorova.app</code> and <code>www.avorova.app</code> to DIRECT in your proxy app, or temporarily disconnect the proxy and retry. <a href="docs/FAQ.en.md#what-if-the-website-will-not-open">Troubleshooting</a></p>
 
 <p align="center">
-  <a href="#themes">Themes</a> · <a href="#brainstorm">Brainstorm</a> · <a href="#quota-battery">Quota battery</a> · <a href="#availability">Availability</a>
+  <a href="#meet-avorova">Interface</a> · <a href="#themes">Themes</a> · <a href="#brainstorm">Brainstorm</a> · <a href="#quota-battery">Quota battery</a> · <a href="#compatibility">Compatibility</a> · <a href="#availability">Availability</a>
 </p>
 
 > **Preparing for release:** this repository currently contains a product overview and interface previews. No installer is available yet.
 
-![Full Codex window demonstration cycling through Neon Nocturne, Lunar Orbit, and Luminous Flow](assets/themes-en.gif)
-
-*See the theme, sidebar, composer, and AVO title-bar controls together. The loop shows three themes; [open the Neon Nocturne still](assets/neon-window-en.webp) for a closer look.*
-
-*Animations on this page are recordings of the website's interface demonstrations, not desktop recordings. Conversations and quota values are sample data.*
-
 ## What is AVOROVA?
 
-AVOROVA, or AVO, is a theme and skin manager for the ChatGPT desktop app / Codex on Windows. Use image backgrounds, video wallpapers, animated backgrounds, or transparent glass themes inside the workspace you open every day.
+AVOROVA is a theme and skin manager for the ChatGPT desktop app / Codex on Windows, with its own dedicated interface. Use image backgrounds, video wallpapers, animated backgrounds, or transparent glass themes inside the workspace you open every day.
 
 OpenAI now calls the desktop application **ChatGPT**, with Codex still available inside it. The themes and demonstrations here focus on the Codex interface; supported app versions will be listed in the release notes. [Learn about naming and compatibility](docs/FAQ.en.md#which-product-does-it-work-with).
 
@@ -34,11 +28,31 @@ Use **Codex theme mode**, or combine themes with a third-party API relay service
 
 It also puts **Brainstorm** and a **quota battery** in the Codex title bar, so you can keep a passing idea and check your remaining Codex plan usage without leaving your work. Third-party API relay balances are not displayed yet.
 
+## Meet AVOROVA
+
+Choose a theme, preview it, and apply it. Your theme library, preview, and everyday settings are together in one window.
+
+![AVOROVA interface illustration with theme management, preview, settings, and two launch modes](assets/app-interface-en.webp)
+
+*Interface illustration. The preview background was created for this showcase and is not a listed theme.*
+
+- **Manage and preview themes:** import a theme and see its appearance before applying it.
+- **Make adjustments:** adjust the theme, conversation bubbles, and text color.
+- **Create your own themes:** use your own images or videos.
+- **Control motion:** pause and resume playback from the Codex title bar.
+- **Choose a launch mode:** Codex theme mode or Codex++ mode.
+
 ## Themes
 
 ![A workspace that feels like yours — Video, image, motion, and glass themes](assets/section-themes-en.webp)
 
-The theme library includes video, image, motion, and glass themes, bringing wallpapers and backgrounds into the Codex sidebar, composer, and workspace. Watch a live preview, then download a theme package or send it to AVO to apply from the website.
+The theme library includes video, image, motion, and glass themes, bringing wallpapers and backgrounds into the Codex sidebar, composer, and workspace. Watch a live preview, then download a theme package or let AVOROVA download, import, and apply it from the website.
+
+![Full Codex window demonstration cycling through Neon Nocturne, Lunar Orbit, and Luminous Flow](assets/themes-en.gif)
+
+*See the theme, sidebar, composer, and title-bar tools together. The loop shows three themes; [open the Neon Nocturne still](assets/neon-window-en.webp) for a closer look.*
+
+*Animations are recordings of website interface demonstrations, not desktop recordings. The Brainstorm panel is rendered from the current app interface with sample data. All conversations, notes, and quota values are examples.*
 
 | Lunar Orbit · Moon and stars | Luminous Flow · Colors in motion |
 | :---: | :---: |
@@ -46,15 +60,19 @@ The theme library includes video, image, motion, and glass themes, bringing wall
 
 *Open either image to see the full window. The animation above shows motion; these stills make interface details easier to inspect.*
 
+Motion themes have been tested by the author and use CPU and GPU resources. On less powerful computers, choose according to actual performance. [Motion theme notes](docs/FAQ.en.md#can-motion-themes-affect-performance).
+
 ## Brainstorm
 
 ![Keep the thought. Build on it. — Select, save, and keep writing](assets/section-brainstorm-en.webp)
 
-Select a passage in a Codex conversation and choose “Save to Brainstorm” to keep developing the idea.
+Select a passage from a user message or assistant reply in Codex and choose “Save to Brainstorm” to keep developing the idea.
 
 - Write notes, paste images, and save changes automatically on your computer.
-- Keep a reference to the original conversation and message, and revisit it when it can be located.
+- Keep the excerpt and its source, then use “Copy to clipboard” or “Return to source window.”
 - Open the panel from the title bar when needed, then return to your work.
+
+Returning to the source window does not guarantee navigation to an exact historical message. That behavior continues to be adapted as Codex changes.
 
 ![Brainstorm demonstration: select conversation text, save it, and open the notes panel](assets/brainstorm-en.gif)
 
@@ -76,6 +94,14 @@ The title-bar battery shows remaining Codex plan quota. Hover over it for detail
 
 *Percentages, times, and card counts are sample data. Available information depends on the account; the battery does not increase or reset plan limits.*
 
+## Compatibility
+
+**An unlisted Codex version is not necessarily incompatible.** Codex has updated frequently during development, and AVOROVA has undergone multiple rounds of compatibility work. Existing records cover runtime tests on at least **17 Windows Store package versions**. This is a verification history, not an allowlist; other versions may work too.
+
+The current hands-on test baseline is **AVOROVA 4.0.0.10 with Codex application version 26.1027.30824**, corresponding to Windows Store package **26.1027.3384.0**. The two Codex identifiers refer to the same installation.
+
+Historical tests differ in scope, and the current AVOROVA build has not been retested against every older package. [See the full version history and known boundaries](docs/COMPATIBILITY.en.md).
+
 ## Availability
 
 | Item | Current status |
@@ -84,11 +110,11 @@ The title-bar battery shows remaining Codex plan quota. Hover over it for detail
 | Modes | Codex theme mode; Codex++ mode for third-party API relay services (install and configure Codex++ separately) |
 | Quota display | Codex plan quota; third-party API relay balances are not displayed yet |
 | Installer | In preparation; no download is available in this repository |
-| Compatibility | Supported Windows and ChatGPT desktop app / Codex versions will be listed with the release |
+| Compatibility record | [Current baseline and historical tests](docs/COMPATIBILITY.en.md); not a version allowlist |
 | Theme community | Not open yet |
 | Repository purpose | Product information, documentation, and future release materials |
 
-Installation, update, and compatibility instructions will accompany a verified installer. This repository does not contain the AVO application source code or Codex source code.
+Installation, update, and compatibility instructions will accompany a verified installer. This repository does not contain the AVOROVA application source code or Codex source code.
 
 Current test installers are unsigned, so Windows may show a prompt during installation. [View installation notes](docs/FAQ.en.md#what-if-i-see-a-security-warning-during-installation).
 
@@ -97,5 +123,8 @@ Current test installers are unsigned, so Windows may show a prompt during instal
 - [Website](https://avorova.app/?utm_source=github)
 - [Frequently asked questions](docs/FAQ.en.md)
 - [中文介绍](README.md)
+- [Contact the author: 8849412@qq.com](mailto:8849412@qq.com)
+
+Questions and suggestions are welcome. For a bug report, include your AVOROVA and Codex versions, steps to reproduce, and relevant screenshots. Do not send passwords or API keys.
 
 AVOROVA is an independent project, not affiliated with or endorsed by OpenAI. The ChatGPT and Codex names identify the products it works with.

@@ -8,9 +8,13 @@
 /docs/*
 !/docs/FAQ.zh-CN.md
 !/docs/FAQ.en.md
+!/docs/COMPATIBILITY.zh-CN.md
+!/docs/COMPATIBILITY.en.md
 !/assets/
 /assets/*
 !/assets/logo.png
+!/assets/app-interface-zh.webp
+!/assets/app-interface-en.webp
 !/assets/neon-nocturne.webp
 !/assets/lunar-orbit.webp
 !/assets/luminous-flow.webp
