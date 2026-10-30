@@ -17,7 +17,7 @@
 <p align="center"><strong>Website access:</strong> Some proxy connections may fail to load the website. Try setting <code>avorova.app</code> and <code>www.avorova.app</code> to DIRECT in your proxy app, or temporarily disconnect the proxy and retry. <a href="docs/FAQ.en.md#what-if-the-website-will-not-open">Troubleshooting</a></p>
 
 <p align="center">
-  <a href="#meet-avorova">Interface</a> · <a href="#themes">Themes</a> · <a href="#brainstorm">Brainstorm</a> · <a href="#quota-battery">Quota battery</a> · <a href="#compatibility">Compatibility</a> · <a href="#availability">Availability</a>
+  <a href="#meet-avorova">Interface</a> · <a href="#text-and-bubbles">Text &amp; bubbles</a> · <a href="#themes">Themes</a> · <a href="#brainstorm">Brainstorm</a> · <a href="#quota-battery">Quota battery</a> · <a href="#compatibility">Compatibility</a> · <a href="#availability">Availability</a>
 </p>
 
 > **Preparing for release:** this repository currently contains a product overview and interface previews. No installer is available yet.
@@ -45,6 +45,14 @@ Choose a theme, preview it, and apply it. Your theme library, preview, and every
 - **Create your own themes:** use your own images or videos.
 - **Control motion:** pause and resume playback from the Codex title bar.
 - **Choose a launch mode:** Codex theme mode or Codex++ mode.
+
+## Text and bubbles
+
+**Your text. Your bubbles. Your way.** Choose text and bubble colors, then adjust the opacity of your messages and assistant replies separately. Keep your favorite background and your conversations easy to read.
+
+![Text changes to warm apricot and bubbles to rose violet, followed by separate opacity adjustments for your messages and assistant replies](assets/appearance-en.gif)
+
+*Recorded from the website's interactive demo, not the desktop app. Color adjustments affect the illustration only; adjust your actual theme in AVOROVA.*
 
 ## Themes
 
