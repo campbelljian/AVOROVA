@@ -31,6 +31,12 @@ AVOROVA provides themes, skins, and desktop customization for the ChatGPT deskto
 
 The themes and demonstrations here focus on the desktop app's Codex interface. AVOROVA is not a browser skin extension for chatgpt.com. Supported Windows and desktop app versions will be listed in the release notes. Compatibility with every version is not promised.
 
+The first release is designed for original Codex. Current verification covers Windows Store installations. Other installation sources or launch entry points require separate verification; matching application names alone do not establish compatibility.
+
+## How do I launch a theme for the first time?
+
+After installing the official AVOROVA release, sign in with your existing Codex account, choose a theme in AVOROVA, and select “Launch & apply theme” after previewing it. Once running, you can pause motion or switch themes. The installer is not yet available; setup instructions will accompany the release.
+
 ## Can I try a Codex version that is not listed?
 
 Yes. An unlisted version is not necessarily incompatible. Codex updates frequently, and AVOROVA continues to adapt. The table records versions and features actually tested; it is not a compatibility allowlist. See the [current baseline, 17 historical Store package versions, and known boundaries](COMPATIBILITY.en.md).
@@ -41,7 +47,7 @@ The theme library groups themes into types such as video, image, motion, and gla
 
 ## Can I interact with these animations?
 
-No. They are short loops recorded from website interface demonstrations, not desktop recordings or themes running inside GitHub. The Brainstorm panel is rendered from the current app interface code with sample data. Conversations, notes, and quota values are examples. The main-interface illustration uses a background created for the showcase, not a listed theme.
+No. They are short loops recorded from website interface demonstrations, not desktop recordings or themes running inside GitHub. The Brainstorm panel is rendered from the current app interface code with sample data. Conversations, notes, and quota values are examples. The main-interface image is a layout illustration, not an app screenshot; its concept background does not represent a bundled launch theme.
 
 ## Can motion themes affect performance?
 

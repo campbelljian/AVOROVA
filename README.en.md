@@ -32,9 +32,11 @@ It also puts **Brainstorm** and a **quota battery** in the Codex title bar, so y
 
 Choose a theme, preview it, and apply it. Your theme library, preview, and everyday settings are together in one window.
 
-![AVOROVA interface illustration with theme management, preview, and everyday settings](assets/app-interface-en.webp)
+The first release is designed for **original Codex**: choose a theme, preview it, then select “Launch & apply theme”. Once running, you can pause motion or switch themes.
 
-*Interface illustration. The preview background was created for this showcase and is not a listed theme.*
+![Actual English AVOROVA interface with Neon Nocturne running, theme management, preview, and playback controls](assets/app-interface-en.png)
+
+*Actual English app screenshot with Neon Nocturne running. “Show Codex” appears after launch; “Restore Codex” removes the theme effect. This is a pre-release build; the installer is not yet available.*
 
 - **Manage and preview themes:** import a theme and see its appearance before applying it.
 - **Make adjustments:** adjust the theme, conversation bubbles, and text color.
@@ -114,7 +116,7 @@ Historical tests differ in scope, and the current AVOROVA build has not been ret
 | Item | Current status |
 | --- | --- |
 | Platform | ChatGPT desktop app / Codex on Windows |
-| How to use | Sign in to Codex with your existing account, then choose and apply themes through AVOROVA |
+| How to use | Original Codex; use your existing sign-in, then launch and apply themes through AVOROVA |
 | Quota display | Remaining Codex plan quota and reset times |
 | Installer | In preparation; no download is available in this repository |
 | Compatibility record | [Verified versions and compatibility notes](docs/COMPATIBILITY.en.md); not a version allowlist |

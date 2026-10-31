@@ -6,6 +6,8 @@
 
 As of October 30, 2026, records cover at least **17 Codex Windows Store package versions**. The features tested vary by version. Historical results refer to the AVOROVA version available at the time; the current version has not been fully retested against every older package.
 
+The first release is designed for **original Codex**. These records cover Windows Store installations. Other installation sources or launch entry points require separate verification; application names or filenames alone do not establish compatibility. Final installer requirements will be stated in the release notes.
+
 ## Most recently verified Codex version
 
 | Version identifier | Version |
