@@ -34,9 +34,9 @@ Choose a theme, preview it, and apply it. Your theme library, preview, and every
 
 The first release is designed for **original Codex**: choose a theme, preview it, then select “Launch & apply theme”. Once running, you can pause motion or switch themes.
 
-![Actual AVOROVA V6.0.1 interface in Chinese, with three bundled themes, a preview, and the launch button](assets/app-interface-v6.0.1-zh.png)
+![AVOROVA interface illustration in English, with Violet Halo, theme management, a preview, and the launch button](assets/app-interface-showcase-en.webp)
 
-*Actual V6.0.1 screenshot after installation, before launching Codex. Neon Nocturne is the default theme; Berry Glass and Luminous Flow are also included. The app supports Chinese and English; this screenshot shows Chinese.*
+*Interface illustration matching the website, with a concept background. The actual interface and bundled themes depend on the release version. [View the actual V6.0.1 interface (Chinese)](assets/app-interface-v6.0.1-zh.png).*
 
 - **Manage and preview themes:** import a theme and see its appearance before applying it.
 - **Make adjustments:** adjust the theme, conversation bubbles, and text color.
