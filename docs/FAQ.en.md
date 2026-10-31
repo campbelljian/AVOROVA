@@ -4,7 +4,7 @@
 
 ## Can I download and install it now?
 
-Not yet. This repository is being prepared for release and currently contains product information, preview images, and animated demonstrations, with no installer or executable. Verified installation and update instructions will be published alongside an installer.
+Download V6.0.1 for Windows x64 from the [website](https://avorova.app/#download) or [GitHub Releases](https://github.com/campbelljian/AVOROVA/releases/tag/v6.0.1). Both provide the same installer. Website downloads use our own server, without going through GitHub. [Setup and file verification](RELEASE-V6.0.1.md#english).
 
 ## What if the website will not open?
 
@@ -17,13 +17,13 @@ If it still will not open, try another network or proxy node. Keep the browser n
 
 ## What if I see a security warning during installation?
 
-Current test installers are not Windows code-signed, so Windows may show an unknown-publisher or reputation warning. Microsoft explains that signing status, publisher reputation, and file reputation affect SmartScreen decisions. Even new signed apps can trigger warnings. [Microsoft’s explanation of SmartScreen reputation](https://learn.microsoft.com/en-us/windows/apps/package-and-deploy/smartscreen-reputation).
+The V6.0.1 installer has no Windows publisher signature, so Windows may show an unknown-publisher or reputation warning. Microsoft explains that signing status, publisher reputation, and file reputation affect SmartScreen decisions. Even new signed apps can trigger warnings. [Microsoft’s explanation of SmartScreen reputation](https://learn.microsoft.com/en-us/windows/apps/package-and-deploy/smartscreen-reputation).
 
 A reputation warning is not itself a virus detection, and it does not prove that a file is safe. Check the file’s source. If a virus or Trojan is explicitly reported, pause installation and keep the security software name, detection name, file version, and alert screenshot for investigation. Do not dismiss the detection or disable protection.
 
 Some devices using Smart App Control or strict organization policies may block unsigned applications entirely. Installation on every device is not guaranteed; disabling protection is not recommended. [Microsoft's Smart App Control overview](https://learn.microsoft.com/en-us/windows/apps/develop/smart-app-control/overview).
 
-AVOROVA’s current theming functionality does not rewrite Codex’s original installation files; themes load at runtime. Signing status and verification information for official installers will be provided in the corresponding release notes.
+AVOROVA’s current theming functionality does not rewrite Codex’s original installation files; themes load at runtime. [V6.0.1 file verification](RELEASE-V6.0.1.md#english).
 
 ## Which product does it work with?
 
@@ -35,7 +35,7 @@ The first release is designed for original Codex. Current verification covers Wi
 
 ## How do I launch a theme for the first time?
 
-After installing the official AVOROVA release, sign in with your existing Codex account, choose a theme in AVOROVA, and select “Launch & apply theme” after previewing it. Once running, you can pause motion or switch themes. The installer is not yet available; setup instructions will accompany the release.
+After installing AVOROVA, sign in with your existing Codex account, choose a theme in AVOROVA, and select “Launch & apply theme” after previewing it. Once running, you can pause motion or switch themes. [First-time setup](RELEASE-V6.0.1.md#english).
 
 ## Can I try a Codex version that is not listed?
 
@@ -47,7 +47,7 @@ The theme library groups themes into types such as video, image, motion, and gla
 
 ## Can I interact with these animations?
 
-No. They are short loops recorded from website interface demonstrations, not desktop recordings or themes running inside GitHub. The Brainstorm panel is rendered from the current app interface code with sample data. Conversations, notes, and quota values are examples. The main-interface image is a layout illustration, not an app screenshot; its concept background does not represent a bundled launch theme.
+No. They are short loops recorded from website interface demonstrations, not desktop recordings or themes running inside GitHub. The Brainstorm panel is rendered from the current app interface code with sample data. Conversations, notes, and quota values are examples. The V6.0.1 main-interface image in the README is an actual app screenshot, labeled separately from these animations.
 
 ## Can motion themes affect performance?
 
@@ -71,7 +71,7 @@ Those values are sample data used to explain the interface. They are not a real 
 
 ## Can I apply a theme directly from the website?
 
-That flow requires an installed AVOROVA version that supports website theme application and has registered the appropriate protocol. Your browser may also ask you to confirm opening AVOROVA. The installer is not yet published, and the full installation-to-application flow still needs release validation.
+That flow requires an installed AVOROVA version that supports website theme application and has registered the appropriate protocol. Your browser may also ask you to confirm opening AVOROVA. Check the result in the app. If it does not open, download the theme ZIP and select the original file using AVOROVA’s Import option; there is no need to unzip it.
 
 ## Can I submit themes to a community?
 

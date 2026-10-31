@@ -4,7 +4,7 @@
 
 ## 现在可以下载安装吗？
 
-还不可以。当前是发布准备阶段，本仓库仅提供产品介绍、预览图片和演示动图，没有安装包或可执行文件。经过验证的安装、更新步骤会与安装包一起发布。
+可以下载 V6.0.1（Windows x64）：[官网独立下载](https://avorova.app/#download) 或 [GitHub Releases](https://github.com/campbelljian/AVOROVA/releases/tag/v6.0.1)。两处提供同一个安装包；官网下载不经过 GitHub。[安装步骤与文件校验](RELEASE-V6.0.1.md)。
 
 ## 官网打不开怎么办？
 
@@ -17,13 +17,13 @@
 
 ## 安装时出现防护提示怎么办？
 
-目前测试安装包尚未添加 Windows 代码签名，Windows 可能显示“未知发布者”或信誉提示。微软说明，签名状态、发布者信誉和文件信誉都会影响 SmartScreen 判断，即使已签名的新程序也可能出现提示。[微软关于 SmartScreen 信誉的说明](https://learn.microsoft.com/en-us/windows/apps/package-and-deploy/smartscreen-reputation)。
+V6.0.1 安装包尚未添加 Windows 发布者签名，Windows 可能显示“未知发布者”或信誉提示。微软说明，签名状态、发布者信誉和文件信誉都会影响 SmartScreen 判断，即使已签名的新程序也可能出现提示。[微软关于 SmartScreen 信誉的说明](https://learn.microsoft.com/en-us/windows/apps/package-and-deploy/smartscreen-reputation)。
 
 信誉提示不等于已经检测到病毒，也不能证明文件安全。请核对文件来源；若明确报告病毒或木马，请暂停安装，保留防护软件名称、检测名称、文件版本及提示截图供核查，不要直接忽略或关闭防护。
 
 部分启用 Smart App Control 或严格组织策略的设备可能直接阻止未签名程序运行，不能保证所有设备均可安装，不建议关闭安全保护。[微软关于 Smart App Control 的说明](https://learn.microsoft.com/en-us/windows/apps/develop/smart-app-control/overview)。
 
-AVOROVA 当前换肤功能不改写 Codex 原始安装文件；主题效果在运行时加载。正式安装包的签名状态和校验信息以对应版本的发布说明为准。
+AVOROVA 当前换肤功能不改写 Codex 原始安装文件；主题效果在运行时加载。[V6.0.1 文件校验信息](RELEASE-V6.0.1.md)。
 
 ## 它适用于什么产品？
 
@@ -35,7 +35,7 @@ AVOROVA 面向 Windows 上的 ChatGPT 桌面应用 / Codex，提供主题、皮�
 
 ## 首次使用如何启动主题？
 
-安装正式版 AVOROVA 后，使用现有 Codex 账号登录，在 AVOROVA 中选中主题，预览后点击“启动并应用主题”。运行后可暂停动态效果或切换主题。当前安装包尚未发布，正式安装步骤会随发布版本提供。
+安装 AVOROVA 后，使用现有 Codex 账号登录，在 AVOROVA 中选中主题，预览后点击“启动并应用主题”。运行后可暂停动态效果或切换主题。[首次安装步骤](RELEASE-V6.0.1.md)。
 
 ## 没有列出我的 Codex 版本，还能用吗？
 
@@ -47,7 +47,7 @@ AVOROVA 面向 Windows 上的 ChatGPT 桌面应用 / Codex，提供主题、皮�
 
 ## 这些动图可以直接操作吗？
 
-不能。它们是录自官网界面演示的短循环动图，并非实际桌面录屏，也不会在 GitHub 页面运行主题。脑洞面板使用当前程序的界面代码和示例数据渲染；对话、笔记和额度均为演示内容。主界面展示是布局示意，非实机截图；背景为创作示例，不代表首发内置主题。
+不能。它们是录自官网界面演示的短循环动图，并非实际桌面录屏，也不会在 GitHub 页面运行主题。脑洞面板使用当前程序的界面代码和示例数据渲染；对话、笔记和额度均为演示内容。README 的 V6.0.1 主界面图片是实机截图，与这些演示动图区分标注。
 
 ## 动效主题会影响电脑性能吗？
 
@@ -71,7 +71,7 @@ AVOROVA 面向 Windows 上的 ChatGPT 桌面应用 / Codex，提供主题、皮�
 
 ## 网页上选好主题，就一定能直接应用吗？
 
-网页应用入口需要本机安装支持该能力的 AVOROVA 版本，并完成相应的协议注册；浏览器还可能要求确认打开 AVOROVA。正式安装包尚未发布，这条完整的安装与应用流程还需要随发布版本完成验收。
+网页应用入口需要本机安装支持该能力的 AVOROVA 版本，并完成相应的协议注册；浏览器还可能要求确认打开 AVOROVA。点击后请在应用内查看结果；若没有打开，也可以下载主题 ZIP，再从 AVOROVA 的“导入”入口选择原文件，无需解压。
 
 ## 可以上传自己的主题到社区吗？
 

@@ -6,7 +6,7 @@
 
 As of October 30, 2026, records cover at least **17 Codex Windows Store package versions**. The features tested vary by version. Historical results refer to the AVOROVA version available at the time; the current version has not been fully retested against every older package.
 
-The first release is designed for **original Codex**. These records cover Windows Store installations. Other installation sources or launch entry points require separate verification; application names or filenames alone do not establish compatibility. Final installer requirements will be stated in the release notes.
+V6.0.1 is designed for **original Codex on Windows x64**. These records cover Windows Store installations. Other installation sources or launch entry points require separate verification; application names or filenames alone do not establish compatibility. [V6.0.1 release notes](RELEASE-V6.0.1.md#english).
 
 ## Most recently verified Codex version
 
@@ -17,7 +17,9 @@ The first release is designed for **original Codex**. These records cover Window
 
 Both numbers identify the same Codex installation using different numbering conventions.
 
-Verified features include themed launch, video playback and pause, composer display, retained Brainstorm notes, saving excerpts from user and assistant messages, copying excerpts, returning to the source window, and terminal display/input. Glass transparency can vary by graphics environment; some environments may show a black background.
+Historically verified features include themed launch, video playback and pause, composer display, retained Brainstorm notes, saving excerpts from user and assistant messages, copying excerpts, returning to the source window, and terminal display/input. Glass transparency can vary by graphics environment; some environments may show a black background.
+
+V6.0.1 completed scoped post-install checks for original Codex launch, video playback controls, Luminous Flow mode selection, title-bar quota and Brainstorm, saving and copying excerpts, returning to the source window, and Chinese/English UI. This was a fresh installation; migration of older notes was not tested. Historical results do not mean the current build was fully retested against every older version.
 
 “Return to source window” does not guarantee exact navigation to any historical message. New Codex releases may also affect individual features, and we continue to follow these changes. Report issues with your versions and reproduction steps to [8849412@qq.com](mailto:8849412@qq.com).
 

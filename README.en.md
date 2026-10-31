@@ -18,7 +18,7 @@
   <a href="#meet-avorova">Interface</a> · <a href="#text-and-bubbles">Text &amp; bubbles</a> · <a href="#themes">Themes</a> · <a href="#brainstorm">Brainstorm</a> · <a href="#quota-battery">Quota battery</a> · <a href="#compatibility">Compatibility</a> · <a href="#availability">Availability</a>
 </p>
 
-> **Preparing for release:** this repository currently contains a product overview and interface previews. No installer is available yet.
+> **V6.0.1 · Windows x64:** [Website download](https://avorova.app/#download) · [GitHub download](https://github.com/campbelljian/AVOROVA/releases/tag/v6.0.1) · [Setup and release notes](docs/RELEASE-V6.0.1.md#english). Website downloads are hosted on our own server and do not require GitHub access.
 
 ## What is AVOROVA?
 
@@ -34,9 +34,9 @@ Choose a theme, preview it, and apply it. Your theme library, preview, and every
 
 The first release is designed for **original Codex**: choose a theme, preview it, then select “Launch & apply theme”. Once running, you can pause motion or switch themes.
 
-![Actual English AVOROVA interface with Neon Nocturne running, theme management, preview, and playback controls](assets/app-interface-en.png)
+![Actual AVOROVA V6.0.1 interface in Chinese, with three bundled themes, a preview, and the launch button](assets/app-interface-v6.0.1-zh.png)
 
-*Actual English app screenshot with Neon Nocturne running. “Show Codex” appears after launch; “Restore Codex” removes the theme effect. This is a pre-release build; the installer is not yet available.*
+*Actual V6.0.1 screenshot after installation, before launching Codex. Neon Nocturne is the default theme; Berry Glass and Luminous Flow are also included. The app supports Chinese and English; this screenshot shows Chinese.*
 
 - **Manage and preview themes:** import a theme and see its appearance before applying it.
 - **Make adjustments:** adjust the theme, conversation bubbles, and text color.
@@ -118,14 +118,14 @@ Historical tests differ in scope, and the current AVOROVA build has not been ret
 | Platform | ChatGPT desktop app / Codex on Windows |
 | How to use | Original Codex; use your existing sign-in, then launch and apply themes through AVOROVA |
 | Quota display | Remaining Codex plan quota and reset times |
-| Installer | In preparation; no download is available in this repository |
+| Installer | **V6.0.1 · Windows x64**; [website](https://avorova.app/#download) / [GitHub Releases](https://github.com/campbelljian/AVOROVA/releases/tag/v6.0.1) |
 | Compatibility record | [Verified versions and compatibility notes](docs/COMPATIBILITY.en.md); not a version allowlist |
 | Theme community | Not open yet |
-| Repository purpose | Product information, documentation, and future release materials |
+| Repository purpose | Product information, documentation, and release materials |
 
-Installation, update, and compatibility instructions will accompany a verified installer. This repository does not contain the AVOROVA application source code or Codex source code.
+[Setup, bundled themes, and file verification](docs/RELEASE-V6.0.1.md#english). This repository does not contain the AVOROVA application source code or Codex source code.
 
-Current test installers are unsigned, so Windows may show a prompt during installation. [View installation notes](docs/FAQ.en.md#what-if-i-see-a-security-warning-during-installation).
+The V6.0.1 installer has no Windows publisher signature, so Windows may show a prompt during installation. [View installation notes](docs/FAQ.en.md#what-if-i-see-a-security-warning-during-installation).
 
 ## Learn more
 

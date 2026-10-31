@@ -18,7 +18,7 @@
   <a href="#认识-avorova">主界面</a> · <a href="#文字与气泡">文字与气泡</a> · <a href="#主题">主题</a> · <a href="#脑洞">脑洞</a> · <a href="#额度电池">额度电池</a> · <a href="#兼容性">兼容性</a> · <a href="#适用范围与下载状态">下载状态</a>
 </p>
 
-> **发布准备中**：当前仅提供产品介绍与界面预览，安装包尚未发布。
+> **V6.0.1 · Windows x64**：[官网下载](https://avorova.app/#download) · [GitHub 下载](https://github.com/campbelljian/AVOROVA/releases/tag/v6.0.1) · [安装步骤与版本说明](docs/RELEASE-V6.0.1.md)。官网下载由独立服务器提供，无需通过 GitHub。
 
 ## AVOROVA 是什么？
 
@@ -34,11 +34,9 @@ AVOROVA 是一款面向 Windows 版 ChatGPT 桌面应用 / Codex 的主题管理
 
 首发使用 **Codex 原版**：选中主题，预览后点击“启动并应用主题”。运行后可暂停动态效果或切换主题。
 
-![AVOROVA 独立主界面示意：主题管理、效果预览与常用设置](assets/app-interface-zh.webp)
+![AVOROVA V6.0.1 中文实机界面：三款内置主题、效果预览与启动并应用主题](assets/app-interface-v6.0.1-zh.png)
 
-*界面布局示意，非实机截图；实际界面以发布版本为准。预览背景为创作示例，不代表首发内置主题。*
-
-[查看英文版实机界面（主题运行中）](assets/app-interface-en.png)。截图来自待发布版本，安装包尚未发布。
+*V6.0.1 安装后的真实界面，当前尚未启动 Codex。默认主题为霓影夜轨；安装包还附带莓紫晶透和流光幻境。界面支持切换中英文。*
 
 - **主题管理与预览**：导入主题，在应用前查看效果。
 - **按喜好调整**：调整主题、聊天气泡和文字颜色。
@@ -120,14 +118,14 @@ Codex 顶栏里的电池显示 Codex 套餐的剩余额度，悬停即可查看�
 | 平台 | Windows 版 ChatGPT 桌面应用 / Codex |
 | 使用方式 | Codex 原版；使用现有账号登录，通过 AVOROVA 启动并应用主题 |
 | 额度显示 | Codex 套餐的剩余额度与恢复时间 |
-| 安装包 | 准备中，本仓库暂未提供下载 |
+| 安装包 | **V6.0.1 · Windows x64**；[官网](https://avorova.app/#download) / [GitHub Releases](https://github.com/campbelljian/AVOROVA/releases/tag/v6.0.1) |
 | 兼容记录 | [已验证版本与兼容说明](docs/COMPATIBILITY.zh-CN.md)；不是限制使用的版本名单 |
 | 主题社区 | 暂未开放 |
-| 仓库用途 | 产品介绍、使用说明，以及后续的版本发布资料 |
+| 仓库用途 | 产品介绍、使用说明与版本发布资料 |
 
-安装、更新与完整兼容说明会随经过验证的安装包一起补齐。当前仓库不包含 AVOROVA 主程序源码，也不包含 Codex 源码。
+[安装步骤、内置主题与文件校验](docs/RELEASE-V6.0.1.md)。当前仓库不包含 AVOROVA 主程序源码，也不包含 Codex 源码。
 
-当前测试安装包尚未签名，安装时可能出现系统提示。[查看安装说明](docs/FAQ.zh-CN.md#安装时出现防护提示怎么办)。
+V6.0.1 安装包尚未添加 Windows 发布者签名，安装时可能出现系统提示。[查看安装说明](docs/FAQ.zh-CN.md#安装时出现防护提示怎么办)。
 
 ## 了解更多
 
