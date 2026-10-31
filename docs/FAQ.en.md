@@ -35,14 +35,6 @@ The themes and demonstrations here focus on the desktop app's Codex interface. A
 
 Yes. An unlisted version is not necessarily incompatible. Codex updates frequently, and AVOROVA continues to adapt. The table records versions and features actually tested; it is not a compatibility allowlist. See the [current baseline, 17 historical Store package versions, and known boundaries](COMPATIBILITY.en.md).
 
-## Can I use a third-party API relay service?
-
-Yes. AVOROVA offers Codex theme mode and Codex++ mode. Users who connect to a third-party API relay service through Codex++ can also use AVOROVA themes.
-
-Install Codex++ separately and configure your service endpoint, API key, and available models there. Then select Codex++ mode in AVOROVA. Service and model availability depend on Codex++ and your relay provider; AVOROVA does not supply a relay service or API credits. Codex theme mode does not require Codex++.
-
-The quota battery shows Codex plan quota. Third-party API relay balances are not displayed yet.
-
 ## What kinds of themes are available?
 
 The theme library groups themes into types such as video, image, motion, and glass. The animation at the top of the README shows three themes inside complete Codex window demonstrations. Full-size stills let you inspect interface details.
@@ -65,7 +57,7 @@ The source card retains the excerpt and offers “Copy to clipboard” and “Re
 
 ## Does the quota battery add usage or spend reset cards?
 
-No. It displays the remaining Codex plan quota, reset information, and reset-card count available from the account. It is a read-only display and does not increase or reset limits. Third-party API relay balances are not displayed yet.
+No. It displays the remaining Codex plan quota, reset information, and reset-card count available from the account. It is a read-only display and does not increase or reset limits.
 
 ## Why do the previews show 74%, 63%, and ×2?
 

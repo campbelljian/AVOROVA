@@ -4,8 +4,6 @@
 
 <p align="center">为 Windows 版 ChatGPT / Codex 提供主题换肤、动态壁纸和实用工具，把灵感和额度放在顺手的位置。</p>
 
-<p align="center"><strong>支持 Codex 主题模式与 Codex++ 模式，中转站用户也能用。</strong></p>
-
 <p align="center">
   简体中文 · <a href="README.en.md">English</a> · <a href="https://avorova.app/?utm_source=github">官网</a> · <a href="docs/FAQ.zh-CN.md">常见问题</a> · <a href="mailto:8849412@qq.com">联系作者</a>
 </p>
@@ -28,15 +26,13 @@ AVOROVA 是一款面向 Windows 版 ChatGPT 桌面应用 / Codex 的主题管理
 
 官方当前使用 **ChatGPT 桌面应用**这个名称，应用中仍保留 Codex。本文中的主题与操作演示围绕 Codex 界面展开；具体兼容版本以发布说明为准。[了解名称与适用范围](docs/FAQ.zh-CN.md#它适用于什么产品)。
 
-你可以使用 **Codex 主题模式**，也可以通过 **Codex++ 模式**搭配中转服务使用主题。Codex++ 模式需要另行安装 Codex++，并在其中配置好自己的中转服务；普通主题模式无需安装 Codex++。
-
-除了外观，AVOROVA 还把**脑洞**和**额度电池**放进 Codex 顶栏：随手留下想法，也能随时看看 Codex 套餐还剩多少额度。额度电池暂不显示中转站余额。
+除了外观，AVOROVA 还把**脑洞**和**额度电池**放进 Codex 顶栏：随手留下想法，也能随时看看 Codex 套餐还剩多少额度。
 
 ## 认识 AVOROVA
 
 选主题、看预览、直接应用。主题列表、效果预览和常用设置，都在同一个窗口里。
 
-![AVOROVA 独立主界面示意：主题管理、效果预览、设置及双模式启动](assets/app-interface-zh.webp)
+![AVOROVA 独立主界面示意：主题管理、效果预览与常用设置](assets/app-interface-zh.webp)
 
 *界面示意；预览背景是为展示创作的示例，并非上架主题。*
 
@@ -44,7 +40,6 @@ AVOROVA 是一款面向 Windows 版 ChatGPT 桌面应用 / Codex 的主题管理
 - **按喜好调整**：调整主题、聊天气泡和文字颜色。
 - **自主主题**：用自己的图片或视频制作主题。
 - **动态主题控制**：在 Codex 顶栏暂停、继续播放。
-- **双模式启动**：选择 Codex 主题模式或 Codex++ 模式。
 
 ## 文字与气泡
 
@@ -94,7 +89,7 @@ AVOROVA 是一款面向 Windows 版 ChatGPT 桌面应用 / Codex 的主题管理
 
 ![剩多少，一眼看清 — 剩余额度与恢复时间](assets/section-quota-zh.webp)
 
-Codex 顶栏里的电池显示 Codex 套餐的剩余额度，悬停即可查看更详细的信息。**暂不显示中转站余额。**
+Codex 顶栏里的电池显示 Codex 套餐的剩余额度，悬停即可查看更详细的信息。
 
 - 五小时、本周等额度周期的剩余情况。
 - 额度恢复时间与倒计时。
@@ -119,8 +114,8 @@ Codex 顶栏里的电池显示 Codex 套餐的剩余额度，悬停即可查看�
 | 项目 | 当前说明 |
 | --- | --- |
 | 平台 | Windows 版 ChatGPT 桌面应用 / Codex |
-| 使用方式 | Codex 主题模式；Codex++ 模式（需另行安装并配置 Codex++，支持中转服务） |
-| 额度显示 | Codex 套餐额度；暂不显示中转站余额 |
+| 使用方式 | 使用现有 Codex 账号登录，通过 AVOROVA 选择和应用主题 |
+| 额度显示 | Codex 套餐的剩余额度与恢复时间 |
 | 安装包 | 准备中，本仓库暂未提供下载 |
 | 兼容记录 | [已验证版本与兼容说明](docs/COMPATIBILITY.zh-CN.md)；不是限制使用的版本名单 |
 | 主题社区 | 暂未开放 |

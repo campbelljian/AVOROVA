@@ -4,8 +4,6 @@
 
 <p align="center">Themes, skins, live wallpapers, and customization tools for the ChatGPT desktop app / Codex on Windows, with ideas and quota right within reach.</p>
 
-<p align="center"><strong>Supports Codex theme mode and third-party API relay services through Codex++ mode.</strong></p>
-
 <p align="center">
   <a href="README.md">简体中文</a> · English · <a href="https://avorova.app/?utm_source=github">Website</a> · <a href="docs/FAQ.en.md">FAQ</a> · <a href="mailto:8849412@qq.com">Contact</a>
 </p>
@@ -28,15 +26,13 @@ AVOROVA is a theme and skin manager for the ChatGPT desktop app / Codex on Windo
 
 OpenAI now calls the desktop application **ChatGPT**, with Codex still available inside it. The themes and demonstrations here focus on the Codex interface; supported app versions will be listed in the release notes. [Learn about naming and compatibility](docs/FAQ.en.md#which-product-does-it-work-with).
 
-Use **Codex theme mode**, or combine themes with a third-party API relay service through **Codex++ mode**. Codex++ mode requires a separate Codex++ installation with your relay service configured. Codex theme mode does not require Codex++.
-
-It also puts **Brainstorm** and a **quota battery** in the Codex title bar, so you can keep a passing idea and check your remaining Codex plan usage without leaving your work. Third-party API relay balances are not displayed yet.
+It also puts **Brainstorm** and a **quota battery** in the Codex title bar, so you can keep a passing idea and check your remaining Codex plan usage without leaving your work.
 
 ## Meet AVOROVA
 
 Choose a theme, preview it, and apply it. Your theme library, preview, and everyday settings are together in one window.
 
-![AVOROVA interface illustration with theme management, preview, settings, and two launch modes](assets/app-interface-en.webp)
+![AVOROVA interface illustration with theme management, preview, and everyday settings](assets/app-interface-en.webp)
 
 *Interface illustration. The preview background was created for this showcase and is not a listed theme.*
 
@@ -44,7 +40,6 @@ Choose a theme, preview it, and apply it. Your theme library, preview, and every
 - **Make adjustments:** adjust the theme, conversation bubbles, and text color.
 - **Create your own themes:** use your own images or videos.
 - **Control motion:** pause and resume playback from the Codex title bar.
-- **Choose a launch mode:** Codex theme mode or Codex++ mode.
 
 ## Text and bubbles
 
@@ -94,7 +89,7 @@ Returning to the source window does not guarantee navigation to an exact histori
 
 ![See what remains, at a glance. — Remaining usage and reset times](assets/section-quota-en.webp)
 
-The title-bar battery shows remaining Codex plan quota. Hover over it for details. **Third-party API relay balances are not displayed yet.**
+The title-bar battery shows remaining Codex plan quota. Hover over it for details.
 
 - Remaining usage for periods such as the five-hour and weekly windows.
 - Reset times and countdowns.
@@ -119,8 +114,8 @@ Historical tests differ in scope, and the current AVOROVA build has not been ret
 | Item | Current status |
 | --- | --- |
 | Platform | ChatGPT desktop app / Codex on Windows |
-| Modes | Codex theme mode; Codex++ mode for third-party API relay services (install and configure Codex++ separately) |
-| Quota display | Codex plan quota; third-party API relay balances are not displayed yet |
+| How to use | Sign in to Codex with your existing account, then choose and apply themes through AVOROVA |
+| Quota display | Remaining Codex plan quota and reset times |
 | Installer | In preparation; no download is available in this repository |
 | Compatibility record | [Verified versions and compatibility notes](docs/COMPATIBILITY.en.md); not a version allowlist |
 | Theme community | Not open yet |

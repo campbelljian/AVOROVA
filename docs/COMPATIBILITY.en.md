@@ -31,7 +31,7 @@ The table uses **complete Windows Store package versions** and lists the main fe
 | 26.831.2377.0 | 2026-09-02–03 | Launch, terminal, composer, file panel, and text colors |
 | 26.901.1978.0 | 2026-09-03–04 | Launch, single-window display, glass themes, and terminal |
 | 26.901.2854.0 | 2026-09-04–05 | Launch, branching, terminal, themes, transparent settings, restore, and tray controls |
-| 26.901.6511.0 | 2026-09-09 | Launch, applying/switching themes, and coexistence with Codex++ 1.2.56 |
+| 26.901.6511.0 | 2026-09-09 | Launch and applying/switching themes |
 | 26.908.9136.0 | 2026-09-26 | Conversation bubbles, colors/opacity, per-theme preferences, and saved settings |
 | 26.924.2738.0 | 2026-09-29 | Launch, glass transparency, colored frame, and external image opening; split-screen had issues at the time |
 | 26.928.1915.0 | 2026-10-25–30 | Saving/reopening Brainstorm notes and glass transparency; application version 26.928.20755 |
@@ -48,5 +48,3 @@ Historical results do not automatically carry over to every later release. Theme
 ## Can I use an unlisted version?
 
 You can try it. AVOROVA checks the application's actual structure rather than allowing only the versions in this table. As Codex continues to change, some features may need further compatibility work. Reports about your experience help us improve support.
-
-Historical Codex++ coexistence records do not mean every Codex++ version or relay service has been verified. Service and model availability depend on your configuration and provider. AVOROVA does not display third-party API relay balances yet.
