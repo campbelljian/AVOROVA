@@ -4,7 +4,7 @@
 
 **Your version is not listed? That does not mean it is incompatible.** Codex has updated frequently during AVOROVA's development, and we have made multiple rounds of compatibility improvements. These are versions actually tested, not a list of the only supported versions. Unlisted versions may work too.
 
-As of October 30, 2026, records cover at least **17 Codex Windows Store package versions**. The features tested vary by version. Historical results refer to the AVOROVA version available at the time; the current version has not been fully retested against every older package.
+As of November 1, 2026, records cover at least **18 Codex Windows Store package versions**. The features tested vary by version. Historical results refer to the AVOROVA version available at the time; the current version has not been fully retested against every older package.
 
 V6.0.1 is designed for **original Codex on Windows x64**. These records cover Windows Store installations. Other installation sources or launch entry points require separate verification; application names or filenames alone do not establish compatibility. [V6.0.1 release notes](RELEASE-V6.0.1.md#english).
 
@@ -12,14 +12,13 @@ V6.0.1 is designed for **original Codex on Windows x64**. These records cover Wi
 
 | Version identifier | Version |
 | --- | --- |
-| Codex application version | **26.1027.30824** |
-| Corresponding Windows Store package version | **26.1027.3384.0** |
+| Windows Store package version | **26.1027.6604.0** |
 
-Both numbers identify the same Codex installation using different numbering conventions.
+On November 1, 2026, the author tested this version and confirmed that it works with AVOROVA.
 
 Historically verified features include themed launch, video playback and pause, composer display, retained Brainstorm notes, saving excerpts from user and assistant messages, copying excerpts, returning to the source window, and terminal display/input. Glass transparency can vary by graphics environment; some environments may show a black background.
 
-V6.0.1 completed scoped post-install checks for original Codex launch, video playback controls, Luminous Flow mode selection, title-bar quota and Brainstorm, saving and copying excerpts, returning to the source window, and Chinese/English UI. This was a fresh installation; migration of older notes was not tested. Historical results do not mean the current build was fully retested against every older version.
+V6.0.1 completed scoped post-install checks for original Codex launch, video playback controls, Luminous Flow mode selection, title-bar quota and Brainstorm, saving and copying excerpts, returning to the source window, and Chinese/English UI. Those release checks used a fresh installation; migration of older notes was not tested. Historical results do not mean the current build was fully retested against every older version.
 
 “Return to source window” does not guarantee exact navigation to any historical message. New Codex releases may also affect individual features, and we continue to follow these changes. Report issues with your versions and reproduction steps to [8849412@qq.com](mailto:8849412@qq.com).
 
@@ -45,7 +44,8 @@ The table uses **complete Windows Store package versions** and lists the main fe
 | 26.1007.2314.0 | 2026-10-15 | Glass, split-screen restoration, video pause/resume, quota battery, and exit |
 | 26.1013.4894.0 | 2026-10-17 | Video, battery, glass, terminal, image opening, split-screen, composer, and exit |
 | 26.1021.3705.0 | 2026-10-24–25 | Theme video, capturing assistant messages, and saving/reopening Brainstorm notes; exact historical navigation was limited |
-| 26.1027.3384.0 | 2026-10-30 | Themed launch, video pause/resume, Brainstorm capture/copy, returning to the source window, and terminal |
+| 26.1027.3384.0 | 2026-10-30 | Themed launch, video pause/resume, Brainstorm capture/copy, returning to the source window, and terminal; application version 26.1027.30824 |
+| 26.1027.6604.0 | 2026-11-01 | Tested by the author; compatibility confirmed after the Codex update |
 
 Historical results do not automatically carry over to every later release. Themes, glass rendering, and returning to message sources can also have different compatibility behavior.
 

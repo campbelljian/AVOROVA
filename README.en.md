@@ -105,9 +105,9 @@ The title-bar battery shows remaining Codex plan quota. Hover over it for detail
 
 ## Compatibility
 
-**An unlisted Codex version is not necessarily incompatible.** Codex has updated frequently during development, and AVOROVA has undergone multiple rounds of compatibility work. Existing records cover runtime tests on at least **17 Windows Store package versions**. This is a verification history, not an allowlist; other versions may work too.
+**An unlisted Codex version is not necessarily incompatible.** Codex has updated frequently during development, and AVOROVA has undergone multiple rounds of compatibility work. Existing records cover runtime tests on at least **18 Windows Store package versions**. This is a verification history, not an allowlist; other versions may work too.
 
-The most recently verified **Codex application version is 26.1027.30824**, corresponding to Windows Store package **26.1027.3384.0**. Both numbers identify the same Codex installation.
+The most recently verified **Codex Windows Store package is 26.1027.6604.0**. The author tested it and confirmed compatibility on **November 1, 2026**.
 
 Historical tests differ in scope, and the current AVOROVA build has not been retested against every older package. [See the full version history and known boundaries](docs/COMPATIBILITY.en.md).
 
