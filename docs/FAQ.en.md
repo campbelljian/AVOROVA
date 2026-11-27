@@ -4,7 +4,11 @@
 
 ## Can I download and install it now?
 
-Download V6.0.1 for Windows x64 from the [website](https://avorova.app/#download) or [GitHub Releases](https://github.com/campbelljian/AVOROVA/releases/tag/v6.0.1). Both provide the same installer. Website downloads use our own server, without going through GitHub. [Setup and file verification](RELEASE-V6.0.1.md#english).
+Download the V6.0.2 standalone installer for Windows x64 from the [website](https://avorova.app/#download) or [GitHub Releases](https://github.com/campbelljian/AVOROVA/releases/tag/v6.0.2). Both provide the same verified installer. Website downloads use our own server, without going through GitHub. [Setup and file verification](RELEASE-V6.0.2.md#english). After installation, check for V6.0.3 inside AVO.
+
+## How do I update to V6.0.3?
+
+Check for updates in AVO settings, download the update, and choose to install it on the next launch. Exit AVO normally from the tray, then reopen it from the existing desktop shortcut. Themes, settings, and existing local records are retained. [Update notes](RELEASE-V6.0.3.md#english). V6.0.3 is currently delivered as an in-app update; the standalone installer remains V6.0.2.
 
 ## What if the website will not open?
 
@@ -17,13 +21,13 @@ If it still will not open, try another network or proxy node. Keep the browser n
 
 ## What if I see a security warning during installation?
 
-The V6.0.1 installer has no Windows publisher signature, so Windows may show an unknown-publisher or reputation warning. Microsoft explains that signing status, publisher reputation, and file reputation affect SmartScreen decisions. Even new signed apps can trigger warnings. [Microsoft’s explanation of SmartScreen reputation](https://learn.microsoft.com/en-us/windows/apps/package-and-deploy/smartscreen-reputation).
+The V6.0.2 installer has no Windows publisher signature, so Windows may show an unknown-publisher or reputation warning. Microsoft explains that signing status, publisher reputation, and file reputation affect SmartScreen decisions. Even new signed apps can trigger warnings. [Microsoft’s explanation of SmartScreen reputation](https://learn.microsoft.com/en-us/windows/apps/package-and-deploy/smartscreen-reputation).
 
 A reputation warning is not itself a virus detection, and it does not prove that a file is safe. Check the file’s source. If a virus or Trojan is explicitly reported, pause installation and keep the security software name, detection name, file version, and alert screenshot for investigation. Do not dismiss the detection or disable protection.
 
 Some devices using Smart App Control or strict organization policies may block unsigned applications entirely. Installation on every device is not guaranteed; disabling protection is not recommended. [Microsoft's Smart App Control overview](https://learn.microsoft.com/en-us/windows/apps/develop/smart-app-control/overview).
 
-AVOROVA’s current theming functionality does not rewrite Codex’s original installation files; themes load at runtime. [V6.0.1 file verification](RELEASE-V6.0.1.md#english).
+AVOROVA’s current theming functionality does not rewrite Codex’s original installation files; themes load at runtime. [Installer file verification](RELEASE-V6.0.2.md#english).
 
 ## Which product does it work with?
 
@@ -35,7 +39,7 @@ The first release is designed for original Codex. Current verification covers Wi
 
 ## How do I launch a theme for the first time?
 
-After installing AVOROVA, sign in with your existing Codex account, choose a theme in AVOROVA, and select “Launch & apply theme” after previewing it. Once running, you can pause motion or switch themes. [First-time setup](RELEASE-V6.0.1.md#english).
+After installing AVOROVA, sign in with your existing Codex account, choose a theme in AVOROVA, and select “Launch & apply theme” after previewing it. Once running, you can pause motion or switch themes. [First-time setup](RELEASE-V6.0.2.md#english).
 
 ## Can I try a Codex version that is not listed?
 
@@ -47,7 +51,7 @@ The theme library groups themes into types such as video, image, motion, and gla
 
 ## Can I interact with these animations?
 
-No. They are short loops recorded from website interface demonstrations, not desktop recordings or themes running inside GitHub. The Brainstorm panel is rendered from the current app interface code with sample data. Conversations, notes, and quota values are examples. The V6.0.1 main-interface image in the README is an actual app screenshot, labeled separately from these animations.
+No. They are short loops recorded from historical website demonstrations, not desktop recordings or themes running inside GitHub. The older Brainstorm interface and title-bar entry have been removed. Conversations, notes, and quota values are examples. The V6.0.1 main-interface image in the README is a historical app screenshot, labeled separately from these animations.
 
 ## Can motion themes affect performance?
 
@@ -55,11 +59,9 @@ Motion themes have been tested by the author. They use CPU and GPU resources, an
 
 Author's statement: the motion theme code officially provided by the author contains no malicious functionality. This statement does not cover arbitrary third-party themes.
 
-## How does Brainstorm work?
+## Is Brainstorm still available?
 
-Select text from a user message or assistant reply in Codex and choose “Save to Brainstorm.” Continue writing, paste images, and save changes automatically on your computer. Open existing notes from the title-bar entry.
-
-The source card retains the excerpt and offers “Copy to clipboard” and “Return to source window.” Returning to the window does not guarantee navigation to an exact historical message. Exact navigation continues to be adapted as Codex changes.
+The Brainstorm interface, text capture, excerpts, and source navigation were removed starting with V6.0.2. Updates retain existing local records; you do not need to delete them. Themes, the quota battery, and official announcement display remain available.
 
 ## Does the quota battery add usage or spend reset cards?
 

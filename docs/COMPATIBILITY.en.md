@@ -2,13 +2,15 @@
 
 [Back to the overview](../README.en.md) · [简体中文](COMPATIBILITY.zh-CN.md)
 
+**The current app is V6.0.3; the standalone installer is V6.0.2.** [Current update notes](RELEASE-V6.0.3.md#english) · [Setup and verification](RELEASE-V6.0.2.md#english). The table below preserves historical verification records through November 1, 2026. Brainstorm, text capture, and source navigation were removed starting with V6.0.2; existing local records are retained.
+
 **Your version is not listed? That does not mean it is incompatible.** Codex has updated frequently during AVOROVA's development, and we have made multiple rounds of compatibility improvements. These are versions actually tested, not a list of the only supported versions. Unlisted versions may work too.
 
 As of November 1, 2026, records cover at least **18 Codex Windows Store package versions**. The features tested vary by version. Historical results refer to the AVOROVA version available at the time; the current version has not been fully retested against every older package.
 
 V6.0.1 is designed for **original Codex on Windows x64**. These records cover Windows Store installations. Other installation sources or launch entry points require separate verification; application names or filenames alone do not establish compatibility. [V6.0.1 release notes](RELEASE-V6.0.1.md#english).
 
-## Most recently verified Codex version
+## Last entry in this historical record (November 1, 2026)
 
 | Version identifier | Version |
 | --- | --- |

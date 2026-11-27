@@ -1,5 +1,7 @@
 # AVOROVA V6.0.1
 
+> 历史版本 / Historical release. [当前 V6.0.3 更新说明 / Current update](RELEASE-V6.0.3.md) · [V6.0.2 独立安装包 / Standalone installer](RELEASE-V6.0.2.md)。本文保留旧版功能记录；脑洞等功能已自 V6.0.2 取消，旧本地资料保留。
+
 [简体中文](#简体中文) · [English](#english)
 
 ## 简体中文

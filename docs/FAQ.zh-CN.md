@@ -4,7 +4,11 @@
 
 ## 现在可以下载安装吗？
 
-可以下载 V6.0.1（Windows x64）：[官网独立下载](https://avorova.app/#download) 或 [GitHub Releases](https://github.com/campbelljian/AVOROVA/releases/tag/v6.0.1)。两处提供同一个安装包；官网下载不经过 GitHub。[安装步骤与文件校验](RELEASE-V6.0.1.md)。
+可以下载 V6.0.2 独立安装包（Windows x64）：[官网独立下载](https://avorova.app/#download) 或 [GitHub Releases](https://github.com/campbelljian/AVOROVA/releases/tag/v6.0.2)。两处提供同一个已验收安装包；官网下载不经过 GitHub。[安装步骤与文件校验](RELEASE-V6.0.2.md)。安装后可在 AVO 中检查并更新到 V6.0.3。
+
+## 怎么更新到 V6.0.3？
+
+在 AVO 设置中选择“检查更新”，按提示下载并选择“下次启动时更新”；从托盘正常退出 AVO，再从原桌面入口打开。主题、设置和旧本地记录保留，无需手动替换 DLL。[本次更新说明](RELEASE-V6.0.3.md)。V6.0.3 当前通过软件内更新提供，独立安装包仍为 V6.0.2。
 
 ## 官网打不开怎么办？
 
@@ -17,13 +21,13 @@
 
 ## 安装时出现防护提示怎么办？
 
-V6.0.1 安装包尚未添加 Windows 发布者签名，Windows 可能显示“未知发布者”或信誉提示。微软说明，签名状态、发布者信誉和文件信誉都会影响 SmartScreen 判断，即使已签名的新程序也可能出现提示。[微软关于 SmartScreen 信誉的说明](https://learn.microsoft.com/en-us/windows/apps/package-and-deploy/smartscreen-reputation)。
+V6.0.2 安装包尚未添加 Windows 发布者签名，Windows 可能显示“未知发布者”或信誉提示。微软说明，签名状态、发布者信誉和文件信誉都会影响 SmartScreen 判断，即使已签名的新程序也可能出现提示。[微软关于 SmartScreen 信誉的说明](https://learn.microsoft.com/en-us/windows/apps/package-and-deploy/smartscreen-reputation)。
 
 信誉提示不等于已经检测到病毒，也不能证明文件安全。请核对文件来源；若明确报告病毒或木马，请暂停安装，保留防护软件名称、检测名称、文件版本及提示截图供核查，不要直接忽略或关闭防护。
 
 部分启用 Smart App Control 或严格组织策略的设备可能直接阻止未签名程序运行，不能保证所有设备均可安装，不建议关闭安全保护。[微软关于 Smart App Control 的说明](https://learn.microsoft.com/en-us/windows/apps/develop/smart-app-control/overview)。
 
-AVOROVA 当前换肤功能不改写 Codex 原始安装文件；主题效果在运行时加载。[V6.0.1 文件校验信息](RELEASE-V6.0.1.md)。
+AVOROVA 当前换肤功能不改写 Codex 原始安装文件；主题效果在运行时加载。[安装包文件校验信息](RELEASE-V6.0.2.md)。
 
 ## 它适用于什么产品？
 
@@ -35,7 +39,7 @@ AVOROVA 面向 Windows 上的 ChatGPT 桌面应用 / Codex，提供主题、皮�
 
 ## 首次使用如何启动主题？
 
-安装 AVOROVA 后，使用现有 Codex 账号登录，在 AVOROVA 中选中主题，预览后点击“启动并应用主题”。运行后可暂停动态效果或切换主题。[首次安装步骤](RELEASE-V6.0.1.md)。
+安装 AVOROVA 后，使用现有 Codex 账号登录，在 AVOROVA 中选中主题，预览后点击“启动并应用主题”。运行后可暂停动态效果或切换主题。[首次安装步骤](RELEASE-V6.0.2.md)。
 
 ## 没有列出我的 Codex 版本，还能用吗？
 
@@ -47,7 +51,7 @@ AVOROVA 面向 Windows 上的 ChatGPT 桌面应用 / Codex，提供主题、皮�
 
 ## 这些动图可以直接操作吗？
 
-不能。它们是录自官网界面演示的短循环动图，并非实际桌面录屏，也不会在 GitHub 页面运行主题。脑洞面板使用当前程序的界面代码和示例数据渲染；对话、笔记和额度均为演示内容。README 的 V6.0.1 主界面图片是实机截图，与这些演示动图区分标注。
+不能。它们是录自历史官网界面演示的短循环动图，并非实际桌面录屏，也不会在 GitHub 页面运行主题。旧脑洞界面和顶栏入口已取消；对话、笔记和额度均为演示内容。README 的 V6.0.1 主界面图片是历史实机截图，与这些演示动图区分标注。
 
 ## 动效主题会影响电脑性能吗？
 
@@ -55,11 +59,9 @@ AVOROVA 面向 Windows 上的 ChatGPT 桌面应用 / Codex，提供主题、皮�
 
 作者声明：官方提供的动效主题代码不包含恶意功能。此说明针对作者提供的主题，不代表对任意第三方主题作出保证。
 
-## 脑洞怎么用？
+## 脑洞功能还有吗？
 
-在 Codex 对话里选中用户消息或助手回复中的文字，点击“存入脑洞”，可以接着写笔记、粘贴图片，内容自动保存在本机。已有笔记也可以从顶栏的脑洞入口查看。
-
-来源卡片保留摘录，提供“复制到剪贴板”和“返回原窗口查看”两个入口。返回原窗口不等于精确定位历史消息；Codex 更新频繁，精确定位仍在持续适配。
+自 V6.0.2 起，脑洞界面、划词采集、摘录和来源跳转功能已取消。升级不会删除原有本地记录；无需为了升级清理这些资料。主题、额度电池和官方公告显示继续保留。
 
 ## 额度电池会增加额度或自动使用重置卡吗？
 
